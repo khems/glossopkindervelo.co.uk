@@ -3105,9 +3105,9 @@ button[type="submit"]:not(.qubely-block-btn-anchor) {
   .comment-form.has-website-field {
     --grid-template-columns: repeat(3, 1fr);
   }
-  .comment-form > * {
+  /* .comment-form > * {
     grid-column: var(--grid-column, 1/-1);
-  }
+  } */
   .comment-form [class*="comment-form-input"] {
     --grid-column: span 1;
   }
