@@ -5,6 +5,16 @@ import "./styles/main.css";
 import "./styles/preview.css";
 import "./styles/style.css";
 
+import logo from "./img/GKV_Logo2.jpeg";
+import dave from "./img/daves-1.jpg";
+import bryn from "./img/IMG_3323-scaled-e1615453272879.jpg";
+import mike from "./img/33084144796_e2e150d599_o.jpg";
+import joanna from "./img/21727528458_a42a4bfdeb_o.jpg";
+import sarah from "./img/SJRGKV.jpg";
+import HPC from "./img/HPC.jpg";
+import bclogo from "./img/bc-logo.png";
+import cttlogo from "./img/CTT_2010_logo_2101.jpg";
+
 const App = () => {
   return (
     <div
@@ -332,27 +342,9 @@ const App = () => {
                           "
                             data-custom-id="dvskemzckjpulqeaxhvgzbridczzlcgkgxrg"
                           >
-                            <source
-                              srcset="
-                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=505&#038;iH=536&#038;oX=0&#038;oY=0&#038;cW=505&#038;cH=536/GKV_Logo2.jpeg     1x,
-                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=1010&#038;iH=1072&#038;oX=0&#038;oY=0&#038;cW=1010&#038;cH=1072/GKV_Logo2.jpeg 2x
-                            "
-                              media="(min-width: 992px)"
-                            />
-                            <source
-                              srcset="
-                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=339&#038;iH=360&#038;oX=0&#038;oY=0&#038;cW=339&#038;cH=360/GKV_Logo2.jpeg 1x,
-                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=678&#038;iH=720&#038;oX=0&#038;oY=0&#038;cW=678&#038;cH=720/GKV_Logo2.jpeg 2x
-                            "
-                              media="(min-width: 768px)"
-                            />
                             <img
                               className="brz-img brz-p-absolute"
-                              srcset="
-                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=380&#038;iH=404&#038;oX=0&#038;oY=0&#038;cW=380&#038;cH=404/GKV_Logo2.jpeg 1x,
-                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=760&#038;iH=808&#038;oX=0&#038;oY=0&#038;cW=760&#038;cH=808/GKV_Logo2.jpeg 2x
-                            "
-                              src="http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=505&#038;iH=536&#038;oX=0&#038;oY=0&#038;cW=505&#038;cH=536/GKV_Logo2.jpeg"
+                              src={logo}
                               alt=""
                               draggable="false"
                               loading="lazy"
@@ -1052,27 +1044,9 @@ const App = () => {
                           "
                             data-custom-id="zervnvpwpkxczwkdqwufnbaowetoqvbjsxnt"
                           >
-                            <source
-                              srcset="
-                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=204&#038;iH=204&#038;oX=0&#038;oY=0&#038;cW=204&#038;cH=204/daves-1.jpg 1x,
-                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=408&#038;iH=408&#038;oX=0&#038;oY=0&#038;cW=408&#038;cH=408/daves-1.jpg 2x
-                            "
-                              media="(min-width: 992px)"
-                            />
-                            <source
-                              srcset="
-                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=118&#038;iH=118&#038;oX=0&#038;oY=0&#038;cW=118&#038;cH=118/daves-1.jpg 1x,
-                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=236&#038;iH=236&#038;oX=0&#038;oY=0&#038;cW=236&#038;cH=236/daves-1.jpg 2x
-                            "
-                              media="(min-width: 768px)"
-                            />
                             <img
                               className="brz-img brz-p-absolute"
-                              srcset="
-                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=170&#038;iH=170&#038;oX=0&#038;oY=2&#038;cW=170&#038;cH=167/daves-1.jpg 1x,
-                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=340&#038;iH=340&#038;oX=0&#038;oY=4&#038;cW=340&#038;cH=334/daves-1.jpg 2x
-                            "
-                              src="http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=204&#038;iH=204&#038;oX=0&#038;oY=0&#038;cW=204&#038;cH=204/daves-1.jpg"
+                              src={dave}
                               alt=""
                               draggable="false"
                               loading="lazy"
@@ -1115,27 +1089,9 @@ const App = () => {
                           "
                             data-custom-id="wztcktztepwiwltpwdtefqgjcqhgodgtdovq"
                           >
-                            <source
-                              srcset="
-                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=206&#038;iH=206&#038;oX=1&#038;oY=0&#038;cW=204&#038;cH=206/IMG_3323-scaled-e1615453272879.jpg 1x,
-                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=412&#038;iH=412&#038;oX=2&#038;oY=0&#038;cW=408&#038;cH=412/IMG_3323-scaled-e1615453272879.jpg 2x
-                            "
-                              media="(min-width: 992px)"
-                            />
-                            <source
-                              srcset="
-                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=119&#038;iH=119&#038;oX=1&#038;oY=0&#038;cW=118&#038;cH=119/IMG_3323-scaled-e1615453272879.jpg 1x,
-                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=238&#038;iH=238&#038;oX=2&#038;oY=0&#038;cW=236&#038;cH=238/IMG_3323-scaled-e1615453272879.jpg 2x
-                            "
-                              media="(min-width: 768px)"
-                            />
                             <img
                               className="brz-img brz-p-absolute"
-                              srcset="
-                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=169&#038;iH=169&#038;oX=0&#038;oY=0&#038;cW=169&#038;cH=169/IMG_3323-scaled-e1615453272879.jpg 1x,
-                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=338&#038;iH=338&#038;oX=0&#038;oY=0&#038;cW=338&#038;cH=338/IMG_3323-scaled-e1615453272879.jpg 2x
-                            "
-                              src="http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=206&#038;iH=206&#038;oX=1&#038;oY=0&#038;cW=204&#038;cH=206/IMG_3323-scaled-e1615453272879.jpg"
+                              src={bryn}
                               alt=""
                               draggable="false"
                               loading="lazy"
@@ -1178,27 +1134,9 @@ const App = () => {
                           "
                             data-custom-id="xbyyjyyeizihjobkkqolpddauurnxlkrdkan"
                           >
-                            <source
-                              srcset="
-                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=204&#038;iH=204&#038;oX=0&#038;oY=1&#038;cW=204&#038;cH=202/33084144796_e2e150d599_o.jpg 1x,
-                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=408&#038;iH=408&#038;oX=0&#038;oY=2&#038;cW=408&#038;cH=404/33084144796_e2e150d599_o.jpg 2x
-                            "
-                              media="(min-width: 992px)"
-                            />
-                            <source
-                              srcset="
-                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=118&#038;iH=118&#038;oX=0&#038;oY=1&#038;cW=118&#038;cH=116/33084144796_e2e150d599_o.jpg 1x,
-                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=236&#038;iH=236&#038;oX=0&#038;oY=2&#038;cW=236&#038;cH=232/33084144796_e2e150d599_o.jpg 2x
-                            "
-                              media="(min-width: 768px)"
-                            />
                             <img
                               className="brz-img brz-p-absolute"
-                              srcset="
-                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=170&#038;iH=170&#038;oX=0&#038;oY=0&#038;cW=170&#038;cH=170/33084144796_e2e150d599_o.jpg 1x,
-                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=340&#038;iH=340&#038;oX=0&#038;oY=0&#038;cW=340&#038;cH=340/33084144796_e2e150d599_o.jpg 2x
-                            "
-                              src="http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=204&#038;iH=204&#038;oX=0&#038;oY=1&#038;cW=204&#038;cH=202/33084144796_e2e150d599_o.jpg"
+                              src={mike}
                               alt=""
                               draggable="false"
                               loading="lazy"
@@ -1241,27 +1179,9 @@ const App = () => {
                           "
                             data-custom-id="bflcxbzwmvxlmoonhkuhvbwjlhmdrzvifwoe"
                           >
-                            <source
-                              srcset="
-                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=204&#038;iH=204&#038;oX=0&#038;oY=0&#038;cW=204&#038;cH=204/21727528458_a42a4bfdeb_o.jpg 1x,
-                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=408&#038;iH=408&#038;oX=0&#038;oY=0&#038;cW=408&#038;cH=408/21727528458_a42a4bfdeb_o.jpg 2x
-                            "
-                              media="(min-width: 992px)"
-                            />
-                            <source
-                              srcset="
-                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=118&#038;iH=118&#038;oX=0&#038;oY=0&#038;cW=118&#038;cH=118/21727528458_a42a4bfdeb_o.jpg 1x,
-                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=236&#038;iH=236&#038;oX=0&#038;oY=0&#038;cW=236&#038;cH=236/21727528458_a42a4bfdeb_o.jpg 2x
-                            "
-                              media="(min-width: 768px)"
-                            />
                             <img
                               className="brz-img brz-p-absolute"
-                              srcset="
-                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=170&#038;iH=170&#038;oX=0&#038;oY=0&#038;cW=170&#038;cH=170/21727528458_a42a4bfdeb_o.jpg 1x,
-                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=340&#038;iH=340&#038;oX=0&#038;oY=0&#038;cW=340&#038;cH=340/21727528458_a42a4bfdeb_o.jpg 2x
-                            "
-                              src="http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=204&#038;iH=204&#038;oX=0&#038;oY=0&#038;cW=204&#038;cH=204/21727528458_a42a4bfdeb_o.jpg"
+                              src={joanna}
                               alt=""
                               draggable="false"
                               loading="lazy"
@@ -1304,27 +1224,9 @@ const App = () => {
                           "
                             data-custom-id="kptqybjcvxwlbupuwirqebqlvmorbrwbevrw"
                           >
-                            <source
-                              srcset="
-                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=204&#038;iH=204&#038;oX=0&#038;oY=0&#038;cW=204&#038;cH=204/SJRGKV.jpg 1x,
-                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=408&#038;iH=408&#038;oX=0&#038;oY=0&#038;cW=408&#038;cH=408/SJRGKV.jpg 2x
-                            "
-                              media="(min-width: 992px)"
-                            />
-                            <source
-                              srcset="
-                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=118&#038;iH=118&#038;oX=0&#038;oY=0&#038;cW=118&#038;cH=118/SJRGKV.jpg 1x,
-                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=236&#038;iH=236&#038;oX=0&#038;oY=0&#038;cW=236&#038;cH=236/SJRGKV.jpg 2x
-                            "
-                              media="(min-width: 768px)"
-                            />
                             <img
                               className="brz-img brz-p-absolute"
-                              srcset="
-                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=170&#038;iH=170&#038;oX=0&#038;oY=0&#038;cW=170&#038;cH=170/SJRGKV.jpg 1x,
-                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=340&#038;iH=340&#038;oX=0&#038;oY=0&#038;cW=340&#038;cH=340/SJRGKV.jpg 2x
-                            "
-                              src="http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=204&#038;iH=204&#038;oX=0&#038;oY=0&#038;cW=204&#038;cH=204/SJRGKV.jpg"
+                              src={sarah}
                               alt=""
                               draggable="false"
                               loading="lazy"
@@ -1425,27 +1327,9 @@ const App = () => {
                               brz-css-xrqah
                             "
                             >
-                              <source
-                                srcset="
-                                http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=360&#038;iH=60&#038;oX=0&#038;oY=0&#038;cW=360&#038;cH=60/HPC.jpg   1x,
-                                http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=720&#038;iH=120&#038;oX=0&#038;oY=0&#038;cW=720&#038;cH=120/HPC.jpg 2x
-                              "
-                                media="(min-width: 992px)"
-                              />
-                              <source
-                                srcset="
-                                http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=216&#038;iH=36&#038;oX=0&#038;oY=0&#038;cW=216&#038;cH=36/HPC.jpg 1x,
-                                http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=432&#038;iH=72&#038;oX=0&#038;oY=0&#038;cW=432&#038;cH=72/HPC.jpg 2x
-                              "
-                                media="(min-width: 768px)"
-                              />
                               <img
                                 className="brz-img brz-p-absolute"
-                                srcset="
-                                http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=320&#038;iH=53&#038;oX=0&#038;oY=0&#038;cW=320&#038;cH=53/HPC.jpg   1x,
-                                http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=640&#038;iH=106&#038;oX=0&#038;oY=0&#038;cW=640&#038;cH=106/HPC.jpg 2x
-                              "
-                                src="http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=360&#038;iH=60&#038;oX=0&#038;oY=0&#038;cW=360&#038;cH=60/HPC.jpg"
+                                src={HPC}
                                 alt=""
                                 draggable="false"
                                 loading="lazy"
@@ -1508,27 +1392,9 @@ const App = () => {
                               brz-css-pavnz
                             "
                             >
-                              <source
-                                srcset="
-                                http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=203&#038;iH=95&#038;oX=0&#038;oY=0&#038;cW=203&#038;cH=95/bc-logo.png   1x,
-                                http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=406&#038;iH=190&#038;oX=0&#038;oY=0&#038;cW=406&#038;cH=190/bc-logo.png 2x
-                              "
-                                media="(min-width: 992px)"
-                              />
-                              <source
-                                srcset="
-                                http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=119&#038;iH=55&#038;oX=0&#038;oY=0&#038;cW=119&#038;cH=55/bc-logo.png   1x,
-                                http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=238&#038;iH=110&#038;oX=0&#038;oY=0&#038;cW=238&#038;cH=110/bc-logo.png 2x
-                              "
-                                media="(min-width: 768px)"
-                              />
                               <img
                                 className="brz-img brz-p-absolute"
-                                srcset="
-                                http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=176&#038;iH=82&#038;oX=0&#038;oY=0&#038;cW=176&#038;cH=82/bc-logo.png   1x,
-                                http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=352&#038;iH=164&#038;oX=0&#038;oY=0&#038;cW=352&#038;cH=164/bc-logo.png 2x
-                              "
-                                src="http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=203&#038;iH=95&#038;oX=0&#038;oY=0&#038;cW=203&#038;cH=95/bc-logo.png"
+                                src={bclogo}
                                 alt=""
                                 draggable="false"
                                 loading="lazy"
@@ -1586,27 +1452,9 @@ const App = () => {
                               brz-css-jaycy
                             "
                             >
-                              <source
-                                srcset="
-                                http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=235&#038;iH=109&#038;oX=0&#038;oY=8&#038;cW=235&#038;cH=92/CTT_2010_logo_2101.jpg   1x,
-                                http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=470&#038;iH=218&#038;oX=0&#038;oY=16&#038;cW=470&#038;cH=184/CTT_2010_logo_2101.jpg 2x
-                              "
-                                media="(min-width: 992px)"
-                              />
-                              <source
-                                srcset="
-                                http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=141&#038;iH=65&#038;oX=0&#038;oY=5&#038;cW=141&#038;cH=55/CTT_2010_logo_2101.jpg    1x,
-                                http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=282&#038;iH=130&#038;oX=0&#038;oY=10&#038;cW=282&#038;cH=110/CTT_2010_logo_2101.jpg 2x
-                              "
-                                media="(min-width: 768px)"
-                              />
                               <img
                                 className="brz-img brz-p-absolute"
-                                srcset="
-                                http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=208&#038;iH=97&#038;oX=0&#038;oY=7&#038;cW=208&#038;cH=82/CTT_2010_logo_2101.jpg    1x,
-                                http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=416&#038;iH=194&#038;oX=0&#038;oY=14&#038;cW=416&#038;cH=164/CTT_2010_logo_2101.jpg 2x
-                              "
-                                src="http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=235&#038;iH=109&#038;oX=0&#038;oY=8&#038;cW=235&#038;cH=92/CTT_2010_logo_2101.jpg"
+                                src={cttlogo}
                                 alt=""
                                 draggable="false"
                                 loading="lazy"
@@ -2060,169 +1908,6 @@ const App = () => {
             </div>
           </div>
         </section>
-      </div>
-      <div className="ct-drawer-canvas">
-        <div
-          id="offcanvas"
-          className="ct-panel ct-header"
-          data-behaviour="right-side"
-          data-device="mobile"
-        >
-          <section>
-            <div className="ct-panel-actions">
-              <div className="close-button">
-                <span className="ct-trigger closed">
-                  <span></span>
-                </span>
-              </div>
-            </div>
-            <div className="ct-panel-content" data-device="desktop"></div>
-            <div className="ct-panel-content" data-device="mobile">
-              <nav
-                className="mobile-menu has-submenu"
-                data-id="mobile-menu"
-                data-type="type-1"
-              >
-                <ul>
-                  <li
-                    className="
-                    page_item page-item-2043
-                    current_page_item current-menu-item
-                  "
-                  >
-                    <a
-                      href="http://www.glossopkindervelo.co.uk/"
-                      aria-current="page"
-                    >
-                      Home
-                    </a>
-                  </li>
-                  <li className="page_item page-item-2138">
-                    <a href="http://www.glossopkindervelo.co.uk/maintenance-page/">
-                      Maintenance Page
-                    </a>
-                  </li>
-                  <li
-                    className="
-                    page_item page-item-46 page_item_has_children
-                    menu-item-has-children
-                  "
-                  >
-                    <a href="http://www.glossopkindervelo.co.uk/news/">
-                      News
-                      <span className="child-indicator">
-                        <svg width="8" height="8" viewBox="0 0 15 15">
-                          <path d="M2.1,3.2l5.4,5.4l5.4-5.4L15,4.3l-7.5,7.5L0,4.3L2.1,3.2z" />
-                        </svg>
-                      </span>
-                    </a>
-                    <ul className="sub-menu">
-                      <li className="page_item page-item-388">
-                        <a href="http://www.glossopkindervelo.co.uk/news/trip-reports/">
-                          LEJOG 2010
-                        </a>
-                      </li>
-                      <li className="page_item page-item-386">
-                        <a href="http://www.glossopkindervelo.co.uk/news/race-reports/">
-                          Race reports
-                        </a>
-                      </li>
-                      <li
-                        className="
-                        page_item page-item-732 page_item_has_children
-                        menu-item-has-children
-                      "
-                      >
-                        <a href="http://www.glossopkindervelo.co.uk/news/trip-reports-2/">
-                          Trip reports
-                          <span className="child-indicator">
-                            <svg width="8" height="8" viewBox="0 0 15 15">
-                              <path d="M2.1,3.2l5.4,5.4l5.4-5.4L15,4.3l-7.5,7.5L0,4.3L2.1,3.2z" />
-                            </svg>
-                          </span>
-                        </a>
-                        <ul className="sub-menu">
-                          <li className="page_item page-item-729">
-                            <a href="http://www.glossopkindervelo.co.uk/news/trip-reports-2/costa-rica/">
-                              Costa Rica
-                            </a>
-                          </li>
-                        </ul>
-                      </li>
-                    </ul>
-                  </li>
-                  <li
-                    className="
-                    page_item page-item-52 page_item_has_children
-                    menu-item-has-children
-                  "
-                  >
-                    <a href="http://www.glossopkindervelo.co.uk/results/">
-                      Results
-                      <span className="child-indicator">
-                        <svg width="8" height="8" viewBox="0 0 15 15">
-                          <path d="M2.1,3.2l5.4,5.4l5.4-5.4L15,4.3l-7.5,7.5L0,4.3L2.1,3.2z" />
-                        </svg>
-                      </span>
-                    </a>
-                    <ul className="sub-menu">
-                      <li className="page_item page-item-358">
-                        <a href="http://www.glossopkindervelo.co.uk/results/2011-summer-tt-series/">
-                          2011 summer TT series
-                        </a>
-                      </li>
-                      <li className="page_item page-item-1052">
-                        <a href="http://www.glossopkindervelo.co.uk/results/2012-summer-club-tt-series-results/">
-                          2012 Summer Club TT Series Results
-                        </a>
-                      </li>
-                      <li className="page_item page-item-392">
-                        <a href="http://www.glossopkindervelo.co.uk/results/archive/">
-                          Club 10s results archive
-                        </a>
-                      </li>
-                      <li className="page_item page-item-547">
-                        <a href="http://www.glossopkindervelo.co.uk/results/results-archive/">
-                          Results archive
-                        </a>
-                      </li>
-                      <li className="page_item page-item-1058">
-                        <a href="http://www.glossopkindervelo.co.uk/results/snake-hill-climb-2012-results/">
-                          Snake Hill Climb 2012 results
-                        </a>
-                      </li>
-                    </ul>
-                  </li>
-                  <li className="page_item page-item-188">
-                    <a href="http://www.glossopkindervelo.co.uk/go-ride/">
-                      Youth Squad
-                    </a>
-                  </li>
-                  <li className="page_item page-item-54">
-                    <a href="http://www.glossopkindervelo.co.uk/gallery/">
-                      Gallery
-                    </a>
-                  </li>
-                  <li className="page_item page-item-56">
-                    <a href="http://www.glossopkindervelo.co.uk/links/">
-                      Links
-                    </a>
-                  </li>
-                  <li className="page_item page-item-58">
-                    <a href="http://www.glossopkindervelo.co.uk/contacts/">
-                      Contacts
-                    </a>
-                  </li>
-                  <li className="page_item page-item-313">
-                    <a href="http://www.glossopkindervelo.co.uk/cycling-events/summer-tts/">
-                      Summer Time Trial Series
-                    </a>
-                  </li>
-                </ul>
-              </nav>
-            </div>
-          </section>
-        </div>
       </div>
     </div>
   );
