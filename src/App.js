@@ -1,25 +1,2231 @@
-import logo from './logo.svg';
-import './App.css';
+import "./styles/App.css";
+import "./styles/css.css";
+import "./styles/global.css";
+import "./styles/main.css";
+import "./styles/preview.css";
+import "./styles/style.css";
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
+    <div
+      className="
+      home
+      page-template
+      page-template-brizy-blank-template
+      page-template-brizy-blank-template-php
+      page
+      page-id-2043
+      wp-custom-logo
+      ct-loading
+      brz
+    "
+    >
+      <div className="brz-root__container brz-reset-all">
+        <section
+          data-uid="oapzoqyjmpxujyusgpmruxrrbaesyjeqmahk"
+          id="header"
+          className="brz-section brz-css-cyazb"
         >
-          Learn React
-        </a>
-      </header>
+          <div
+            className="
+            brz-section__content brz-section--boxed
+            brz-css-pfaoa brz-css-iglev
+          "
+            data-custom-id="pcaprzgnkwyewcrrvpjxgdkofmykaswzvrgj"
+          >
+            <div className="brz-bg">
+              <div className="brz-bg-image"></div>
+            </div>
+            <div className="brz-container brz-css-iohoh">
+              <div
+                className="brz-row__container brz-css-pgcnn"
+                data-custom-id="ghwmhukqyltpyoffijzwibmavbsudjskavkr"
+              >
+                <div className="brz-row brz-css-dtako brz-css-fbamd">
+                  <div
+                    className="brz-columns brz-css-nkrhy brz-css-ypihw"
+                    data-custom-id="nqzxydjrswfexvexyrrowtjufpezvjfjkvyx"
+                  >
+                    <div className="brz-column__items brz-css-kupiz">
+                      <div className="brz-css-ulyqq brz-css-wfnbj brz-wrapper">
+                        <div className="brz-spacer brz-css-efvry"></div>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    className="brz-columns brz-css-nkrhy brz-css-ozped"
+                    data-custom-id="jccsvjxjrqdemmstcsmhmydwxiibjgqxdquf"
+                  >
+                    <div className="brz-column__items brz-css-kupiz brz-css-nmycj">
+                      <div className="brz-css-ulyqq brz-wrapper">
+                        <div
+                          className="brz-rich-text brz-css-ffwou"
+                          data-custom-id="nrxhdzsmimjuogtonsxadkevddtlospgdime"
+                        >
+                          <h1
+                            className="
+                            brz-lh-xs-1_1
+                            brz-text-lg-right
+                            brz-lh-lg-1_3
+                            brz-lh-sm-im-1_3
+                            brz-fs-lg-75 brz-fs-sm-im-69
+                            brz-ls-lg-m_1_5
+                            brz-ls-sm-im-m_1
+                            brz-ls-xs-im-m_1
+                            brz-ff-red_hat_text
+                            brz-ft-google
+                            brz-fw-lg-700
+                            brz-fw-sm-im-700
+                            brz-fw-xs-im-700
+                            brz-fs-xs-70
+                          "
+                          >
+                            <span className="brz-cp-color1">Glossop </span>
+                          </h1>
+                          <h1
+                            className="
+                            brz-lh-xs-1_1
+                            brz-text-lg-right
+                            brz-lh-lg-1_3
+                            brz-lh-sm-im-1_3
+                            brz-fs-lg-75 brz-fs-sm-im-69
+                            brz-ls-lg-m_1_5
+                            brz-ls-sm-im-m_1
+                            brz-ls-xs-im-m_1
+                            brz-ff-red_hat_text
+                            brz-ft-google
+                            brz-fw-lg-700
+                            brz-fw-sm-im-700
+                            brz-fw-xs-im-700
+                            brz-fs-xs-70
+                          "
+                          >
+                            <span className="brz-cp-color1">Kinder Velo</span>
+                          </h1>
+                        </div>
+                      </div>
+                      <div className="brz-css-ulyqq brz-wrapper">
+                        <div
+                          className="brz-rich-text brz-css-ffwou"
+                          data-custom-id="nuhkcxrfuqoofwijmxbmmjzfbhxwofgxykou"
+                        >
+                          <h5
+                            className="
+                            brz-fw-xs-im-400
+                            brz-fw-sm-im-400
+                            brz-fw-lg-400
+                            brz-ft-google
+                            brz-ff-red_hat_text
+                            brz-ls-xs-im-0
+                            brz-ls-sm-im-0
+                            brz-ls-lg-0
+                            brz-fs-xs-im-16
+                            brz-fs-sm-im-17
+                            brz-fs-lg-17
+                            brz-lh-xs-im-1_5
+                            brz-lh-sm-im-1_5
+                            brz-lh-lg-1_8
+                            brz-mb-sm-10 brz-text-lg-right
+                          "
+                          >
+                            <strong className="brz-cp-color8">
+                              Cycling in the Peak District &#038; beyond
+                            </strong>
+                          </h5>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="brz-css-ulyqq brz-css-wfnbj brz-wrapper">
+                <div className="brz-spacer brz-css-efvry brz-css-ytznz"></div>
+              </div>
+              <div
+                className="brz-row__container brz-css-pgcnn"
+                data-custom-id="sqyiyuydxyfwseugffbaeevchrmwjonieevt"
+              >
+                <div className="brz-row brz-css-dtako brz-css-fbamd">
+                  <div
+                    className="brz-columns brz-css-nkrhy brz-css-nfvwt"
+                    data-custom-id="ghmgihnlwqwfmjxbxqoequobnagosjwqsbpo"
+                  >
+                    <div className="brz-column__items brz-css-kupiz brz-css-fgnkv">
+                      <div className="brz-css-ulyqq brz-css-rpdyw brz-wrapper">
+                        <div
+                          className="brz-rich-text brz-css-ffwou"
+                          data-custom-id="zyrlbgmftuxbupmlvrskynwitckberzqxooo"
+                        >
+                          <h6
+                            className="
+                            brz-text-xs-right
+                            brz-lh-lg-1_5
+                            brz-lh-sm-im-1_5
+                            brz-lh-xs-im-1_5
+                            brz-fs-lg-16
+                            brz-fs-sm-im-16
+                            brz-fs-xs-im-16
+                            brz-ls-lg-0
+                            brz-ls-sm-im-0
+                            brz-ls-xs-im-0
+                            brz-ff-red_hat_text
+                            brz-ft-google
+                            brz-fw-lg-700
+                            brz-fw-sm-im-700
+                            brz-fw-xs-im-700
+                          "
+                          >
+                            <a
+                              href="#about"
+                              className="brz-cp-color8 link--anchor"
+                              data-brz-link-type="anchor"
+                            >
+                              About GKV
+                            </a>
+                          </h6>
+                        </div>
+                      </div>
+                      <div className="brz-css-ulyqq brz-css-fnhph brz-wrapper">
+                        <div
+                          className="brz-line brz-css-yfgru brz-css-rprjk"
+                          data-custom-id="rpifsxrhiwxfeiccirqigsleneiykkeqrkqu"
+                        >
+                          <hr className="brz-hr" />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    className="brz-columns brz-css-nkrhy brz-css-xbdcf"
+                    data-custom-id="ntdtrrivnbwrthnouihyypuzhiczoyjqkdas"
+                  >
+                    <div className="brz-column__items brz-css-kupiz brz-css-wosil">
+                      <div className="brz-css-ulyqq brz-css-plknm brz-wrapper">
+                        <div
+                          className="brz-rich-text brz-css-ffwou"
+                          data-custom-id="dscsoxacwrhcbinbrckofpgvnatgcyuakgsr"
+                        >
+                          <h6
+                            className="
+                            brz-text-xs-right
+                            brz-lh-lg-1_5
+                            brz-lh-sm-im-1_5
+                            brz-lh-xs-im-1_5
+                            brz-fs-lg-16
+                            brz-fs-sm-im-16
+                            brz-fs-xs-im-16
+                            brz-ls-lg-0
+                            brz-ls-sm-im-0
+                            brz-ls-xs-im-0
+                            brz-ff-red_hat_text
+                            brz-ft-google
+                            brz-fw-lg-700
+                            brz-fw-sm-im-700
+                            brz-fw-xs-im-700
+                          "
+                          >
+                            <a
+                              href="#rides"
+                              className="brz-cp-color8 link--anchor"
+                              data-brz-link-type="anchor"
+                            >
+                              GKV Rides
+                            </a>
+                          </h6>
+                        </div>
+                      </div>
+                      <div className="brz-css-ulyqq brz-css-afogc brz-wrapper">
+                        <div
+                          className="brz-line brz-css-yfgru brz-css-qeyml"
+                          data-custom-id="ccrdqdpjodopewtpfksndckabenvwhdpvrha"
+                        >
+                          <hr className="brz-hr" />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    className="brz-columns brz-css-nkrhy brz-css-mmdby"
+                    data-custom-id="jyxpfdwivzceaxgbberqxniqvrwkfrglnraf"
+                  >
+                    <div className="brz-column__items brz-css-kupiz brz-css-agrcp">
+                      <div className="brz-css-ulyqq brz-css-bmfyy brz-wrapper">
+                        <div
+                          className="brz-rich-text brz-css-ffwou"
+                          data-custom-id="jggrnspbiamnalimemrkazimcxxbygpywkda"
+                        >
+                          <h6
+                            className="
+                            brz-text-xs-right
+                            brz-lh-lg-1_5
+                            brz-lh-sm-im-1_5
+                            brz-lh-xs-im-1_5
+                            brz-fs-lg-16
+                            brz-fs-sm-im-16
+                            brz-fs-xs-im-16
+                            brz-ls-lg-0
+                            brz-ls-sm-im-0
+                            brz-ls-xs-im-0
+                            brz-ff-red_hat_text
+                            brz-ft-google
+                            brz-fw-lg-700
+                            brz-fw-sm-im-700
+                            brz-fw-xs-im-700
+                          "
+                          >
+                            <a
+                              href="#join"
+                              className="brz-cp-color8 link--anchor"
+                              data-brz-link-type="anchor"
+                            >
+                              Join GKV
+                            </a>
+                          </h6>
+                        </div>
+                      </div>
+                      <div className="brz-css-ulyqq brz-css-utbgz brz-wrapper">
+                        <div
+                          className="brz-line brz-css-yfgru brz-css-ndciz"
+                          data-custom-id="fzvoudpnaclbwoemgdezpbxteifdcwypdywg"
+                        >
+                          <hr className="brz-hr" />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section
+          data-uid="npzezsncdgmqpfyzuxrbpbsxtbrtayfkzlku"
+          id="about"
+          className="brz-section brz-css-cyazb"
+        >
+          <div
+            className="
+            brz-section__content brz-section--boxed
+            brz-css-pfaoa brz-css-kencj
+          "
+            data-custom-id="maluykseqnbxrxbitbhdliuvphdqmjeppxbb"
+          >
+            <div className="brz-bg">
+              <div className="brz-bg-color"></div>
+            </div>
+            <div className="brz-container brz-css-iohoh">
+              <div
+                className="brz-row__container brz-css-pgcnn"
+                data-custom-id="drgiidskotawluvnreknoljhqzgkwjzverfs"
+              >
+                <div className="brz-row brz-css-dtako brz-css-fbamd">
+                  <div
+                    className="brz-columns brz-css-nkrhy brz-css-rpqcc"
+                    data-custom-id="outinpnplrshbqunhukixixsowlcumpbkbxh"
+                  >
+                    <div className="brz-column__items brz-css-kupiz brz-css-hjsuq">
+                      <div className="brz-css-ulyqq brz-wrapper">
+                        <div className="brz-image brz-css-civuc brz-css-ytolb">
+                          <picture
+                            className="
+                            brz-picture brz-d-block brz-p-relative brz-css-bhqni
+                          "
+                            data-custom-id="dvskemzckjpulqeaxhvgzbridczzlcgkgxrg"
+                          >
+                            <source
+                              srcset="
+                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=505&#038;iH=536&#038;oX=0&#038;oY=0&#038;cW=505&#038;cH=536/GKV_Logo2.jpeg     1x,
+                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=1010&#038;iH=1072&#038;oX=0&#038;oY=0&#038;cW=1010&#038;cH=1072/GKV_Logo2.jpeg 2x
+                            "
+                              media="(min-width: 992px)"
+                            />
+                            <source
+                              srcset="
+                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=339&#038;iH=360&#038;oX=0&#038;oY=0&#038;cW=339&#038;cH=360/GKV_Logo2.jpeg 1x,
+                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=678&#038;iH=720&#038;oX=0&#038;oY=0&#038;cW=678&#038;cH=720/GKV_Logo2.jpeg 2x
+                            "
+                              media="(min-width: 768px)"
+                            />
+                            <img
+                              className="brz-img brz-p-absolute"
+                              srcset="
+                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=380&#038;iH=404&#038;oX=0&#038;oY=0&#038;cW=380&#038;cH=404/GKV_Logo2.jpeg 1x,
+                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=760&#038;iH=808&#038;oX=0&#038;oY=0&#038;cW=760&#038;cH=808/GKV_Logo2.jpeg 2x
+                            "
+                              src="http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=505&#038;iH=536&#038;oX=0&#038;oY=0&#038;cW=505&#038;cH=536/GKV_Logo2.jpeg"
+                              alt=""
+                              draggable="false"
+                              loading="lazy"
+                            />
+                          </picture>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    className="brz-columns brz-css-nkrhy brz-css-fvxuu"
+                    data-custom-id="fediectdhjubxnovdxhlnfdxmyfospkxspeo"
+                  >
+                    <div className="brz-column__items brz-css-kupiz brz-css-gzgfk">
+                      <div className="brz-css-ulyqq brz-css-zcyxd brz-wrapper">
+                        <div
+                          className="brz-rich-text brz-css-ffwou"
+                          data-custom-id="jicyeaaizmpmatilotalecmnmlutunqcjscv"
+                        >
+                          <h2 className="brz-tp-heading2">
+                            <span className="brz-cp-color2">
+                              Glossop Kinder Velo (GKV) is a cycling club based
+                              in Glossop, Derbyshire, in the High Peak. GKV is
+                              affiliated to British Cycling and the CTT. GKV was
+                              formed around 20 years ago when two local clubs,
+                              Kinder Racing Team and Glossop Velo merged. We
+                              organise regular club runs, time trials, a hill
+                              climb and a sportive.
+                            </span>
+                          </h2>
+                        </div>
+                      </div>
+                      <div
+                        className="
+                        brz-css-ulyqq brz-css-wfnbj brz-css-ourzu brz-wrapper
+                      "
+                      >
+                        <div className="brz-spacer brz-css-efvry brz-css-txepr"></div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section
+          data-uid="cfdorouzqotmkigcclhqqjmvaagoelitygvl"
+          id="rides"
+          className="brz-section brz-css-cyazb"
+        >
+          <div
+            className="
+            brz-section__content brz-section--boxed
+            brz-css-pfaoa brz-css-xwxhb
+          "
+            data-custom-id="jpjuazksbxxeczdfdrbmairvdmtdedetflik"
+          >
+            <div className="brz-bg">
+              <div className="brz-bg-color"></div>
+            </div>
+            <div className="brz-container brz-css-iohoh">
+              <div className="brz-css-ulyqq brz-wrapper">
+                <div
+                  className="brz-rich-text brz-css-ffwou"
+                  data-custom-id="oxjxohsgqutmjsentibykkmrrddcrgvfpusj"
+                >
+                  <h1 className="brz-tp-heading1 brz-text-lg-center">
+                    <span className="brz-cp-color8">GKV Rides</span>
+                  </h1>
+                </div>
+              </div>
+              <div className="brz-css-ulyqq brz-css-tabbv brz-wrapper">
+                <div
+                  className="brz-rich-text brz-css-ffwou"
+                  data-custom-id="tzzdvwskmorfsgwcoqgwdpuhkoevfvnphvli"
+                >
+                  <p className="brz-tp-subtitle brz-text-lg-center">
+                    <span className="brz-cp-color7">
+                      We run a number of regular rides to suit different
+                      abilities. Details are usually posted on our Facebook and
+                      Strava pages in advance of each ride. You can talk to the
+                      ride organisers and get a feel for what is involved in
+                      advance.{" "}
+                    </span>
+                    <strong className="brz-cp-color1"> </strong>
+                  </p>
+                </div>
+              </div>
+              <div className="brz-css-ulyqq brz-css-wfnbj brz-wrapper">
+                <div className="brz-spacer brz-css-efvry brz-css-zaddj"></div>
+              </div>
+              <div
+                className="brz-row__container brz-css-pgcnn"
+                data-custom-id="loapevinywxuxnaedjvqqkldmvaqhufopure"
+              >
+                <div className="brz-row brz-css-dtako brz-css-fbamd">
+                  <div
+                    className="brz-columns brz-css-nkrhy brz-css-xxvlm"
+                    data-custom-id="ekngzwtctnwdnnrtewldyfgflcahsunuedlg"
+                  >
+                    <div className="brz-column__items brz-css-kupiz brz-css-rtjga">
+                      <div className="brz-wrapper-clone brz-css-zpqtk">
+                        <div className="brz-d-xs-flex brz-flex-xs-wrap brz-css-phccw">
+                          <div
+                            className="brz-wrapper-clone__item brz-css-rmjnv"
+                            id="texabyiaouvzmtxylvymylsmarbwxafpoffk"
+                          >
+                            <div
+                              className="brz-icon__container"
+                              data-custom-id="texabyiaouvzmtxylvymylsmarbwxafpoffk"
+                            >
+                              <span className="brz-span brz-icon css-1ulh6l9">
+                                <svg
+                                  xmlns="http://www.w3.org/2000/svg"
+                                  viewBox="0 0 576 512"
+                                  className="brz-icon-svg"
+                                  data-type="fa"
+                                  data-name="kiwi-bird"
+                                >
+                                  <path d="M575.81 217.98C572.64 157.41 518.28 112 457.63 112h-9.37c-52.82 0-104.25-16.25-147.74-46.24-41.99-28.96-96.04-41.62-153.21-28.7C129.3 41.12-.08 78.24 0 224c.04 70.95 38.68 132.8 95.99 166.01V464c0 8.84 7.16 16 16 16h16c8.84 0 16-7.16 16-16v-54.26c15.36 3.96 31.4 6.26 48 6.26 5.44 0 10.68-.73 16-1.18V464c0 8.84 7.16 16 16 16h16c8.84 0 16-7.16 16-16v-59.43c14.24-5.06 27.88-11.39 40.34-19.51C342.07 355.25 393.86 336 448.46 336c25.48 0 16.01-.31 23.05-.78l74.41 136.44c2.86 5.23 8.3 8.34 14.05 8.34 1.31 0 2.64-.16 3.95-.5 7.09-1.8 12.05-8.19 12.05-15.5 0 0 .14-240.24-.16-246.02zM463.97 248c-13.25 0-24-10.75-24-24 0-13.26 10.75-24 24-24s24 10.74 24 24c0 13.25-10.75 24-24 24zm80 153.25l-39.86-73.08c15.12-5.83 28.73-14.6 39.86-25.98v99.06z"></path>
+                                </svg>
+                              </span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="brz-css-ulyqq brz-wrapper">
+                        <div
+                          className="brz-rich-text brz-css-ffwou"
+                          data-custom-id="pliizfqiwqnxymurpmoekudpgtawisbyjywf"
+                        >
+                          <p className="brz-tp-abovetitle brz-text-lg-center">
+                            <span className="brz-cp-color1"> Early Birds</span>
+                          </p>
+                        </div>
+                      </div>
+                      <div className="brz-css-ulyqq brz-wrapper">
+                        <div
+                          className="brz-rich-text brz-css-ffwou"
+                          data-custom-id="jsqxcuodgivyfaxjpuwstlcfvgupfevkaala"
+                        >
+                          <p className="brz-text-lg-center brz-tp-paragraph">
+                            <span className="brz-cp-color7">
+                              Club secretary Bryn leads a shorter quicker ride
+                              on Sunday mornings. We meet at 8 am and are
+                              usually out for between 2 and 3 hours.
+                            </span>
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    className="brz-columns brz-css-nkrhy brz-css-murqk"
+                    data-custom-id="ztoceiqmzufvvbhwgozbmzfeqqgxreabdggq"
+                  >
+                    <div className="brz-column__items brz-css-kupiz brz-css-azdoc">
+                      <div className="brz-wrapper-clone brz-css-zpqtk">
+                        <div className="brz-d-xs-flex brz-flex-xs-wrap brz-css-phccw">
+                          <div
+                            className="brz-wrapper-clone__item brz-css-rmjnv"
+                            id="yujwqycljrloefyiaxqecvwlinmwpqbqxisg"
+                          >
+                            <div
+                              className="brz-icon__container"
+                              data-custom-id="yujwqycljrloefyiaxqecvwlinmwpqbqxisg"
+                            >
+                              <span className="brz-span brz-icon css-1ulh6l9">
+                                <svg
+                                  xmlns="http://www.w3.org/2000/svg"
+                                  viewBox="0 0 640 512"
+                                  className="brz-icon-svg"
+                                  data-type="fa"
+                                  data-name="coffee"
+                                >
+                                  <path d="M192 384h192c53 0 96-43 96-96h32c70.6 0 128-57.4 128-128S582.6 32 512 32H120c-13.3 0-24 10.7-24 24v232c0 53 43 96 96 96zM512 96c35.3 0 64 28.7 64 64s-28.7 64-64 64h-32V96h32zm47.7 384H48.3c-47.6 0-61-64-36-64h583.3c25 0 11.8 64-35.9 64z"></path>
+                                </svg>
+                              </span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="brz-css-ulyqq brz-wrapper">
+                        <div
+                          className="brz-rich-text brz-css-ffwou"
+                          data-custom-id="caeciwmlpltmaispjlqmjfaptvlnzxaebkom"
+                        >
+                          <p className="brz-text-lg-center brz-tp-abovetitle">
+                            <span
+                              style={{ opacity: 1 }}
+                              className="brz-cp-color1"
+                            >
+                              Sunday Coffee
+                            </span>
+                          </p>
+                        </div>
+                      </div>
+                      <div className="brz-css-ulyqq brz-wrapper">
+                        <div
+                          className="brz-rich-text brz-css-ffwou"
+                          data-custom-id="nszbqdjltyvkrkzttvlyipmgvkihqjrrbomu"
+                        >
+                          <p className="brz-tp-paragraph brz-text-lg-center">
+                            <span className="brz-cp-color7">
+                              Joe leads a longer Sunday ride meeting at Glossop
+                              station at 10 am. Expect a long day with café
+                              stops and the occasional hipflask.
+                            </span>
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    className="brz-columns brz-css-nkrhy brz-css-fqvge"
+                    data-custom-id="drsottqldjmrnwsnniiniuvghpnfgivpkniy"
+                  >
+                    <div className="brz-column__items brz-css-kupiz brz-css-zdhts">
+                      <div className="brz-wrapper-clone brz-css-zpqtk">
+                        <div className="brz-d-xs-flex brz-flex-xs-wrap brz-css-phccw">
+                          <div
+                            className="brz-wrapper-clone__item brz-css-rmjnv"
+                            id="ukwefgcyistqzjxqiodfoxvezcwexibdafbj"
+                          >
+                            <div
+                              className="brz-icon__container"
+                              data-custom-id="ukwefgcyistqzjxqiodfoxvezcwexibdafbj"
+                            >
+                              <span className="brz-span brz-icon css-1ulh6l9">
+                                <svg
+                                  xmlns="http://www.w3.org/2000/svg"
+                                  viewBox="0 0 640 512"
+                                  className="brz-icon-svg"
+                                  data-type="fa"
+                                  data-name="mountain"
+                                >
+                                  <path d="M634.92 462.7l-288-448C341.03 5.54 330.89 0 320 0s-21.03 5.54-26.92 14.7l-288 448a32.001 32.001 0 0 0-1.17 32.64A32.004 32.004 0 0 0 32 512h576c11.71 0 22.48-6.39 28.09-16.67a31.983 31.983 0 0 0-1.17-32.63zM320 91.18L405.39 224H320l-64 64-38.06-38.06L320 91.18z"></path>
+                                </svg>
+                              </span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="brz-css-ulyqq brz-wrapper">
+                        <div
+                          className="brz-rich-text brz-css-ffwou"
+                          data-custom-id="ghmwisusyuvcixreugfygmxgasaqzuiobbre"
+                        >
+                          <p className="brz-tp-abovetitle brz-text-lg-center">
+                            <span
+                              style={{ opacity: 1 }}
+                              className="brz-cp-color1"
+                            >
+                              Hill Bothering
+                            </span>
+                          </p>
+                        </div>
+                      </div>
+                      <div className="brz-css-ulyqq brz-wrapper">
+                        <div
+                          className="brz-rich-text brz-css-ffwou"
+                          data-custom-id="igvvnzdxbcnxdswxzgnfqymhkgalesgucmac"
+                        >
+                          <p className="brz-text-lg-center brz-tp-paragraph">
+                            <span className="brz-cp-color7">
+                              For as long as daylight permits, club chair Dave
+                              leads quick evening rides up as many hills as he
+                              can find.
+                            </span>
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="brz-css-ulyqq brz-css-wfnbj brz-css-qarqu brz-wrapper">
+                <div className="brz-spacer brz-css-efvry brz-css-sfihz"></div>
+              </div>
+              <div
+                className="brz-row__container brz-css-pgcnn"
+                data-custom-id="zclhonisstvdurphqnzjllopgqtijwocppck"
+              >
+                <div className="brz-row brz-css-dtako brz-css-fbamd">
+                  <div
+                    className="brz-columns brz-css-nkrhy brz-css-icxkv"
+                    data-custom-id="rervvjzhysjfftluvmnpxmllgnvngmtvxped"
+                  >
+                    <div className="brz-column__items brz-css-kupiz brz-css-nfnbx">
+                      <div className="brz-wrapper-clone brz-css-zpqtk">
+                        <div className="brz-d-xs-flex brz-flex-xs-wrap brz-css-phccw">
+                          <div
+                            className="brz-wrapper-clone__item brz-css-rmjnv"
+                            id="mahlsaivqqftvanpqzmggarqplobsvuzkwdb"
+                          >
+                            <div
+                              className="brz-icon__container"
+                              data-custom-id="mahlsaivqqftvanpqzmggarqplobsvuzkwdb"
+                            >
+                              <span className="brz-span brz-icon css-1ulh6l9">
+                                <svg
+                                  xmlns="http://www.w3.org/2000/svg"
+                                  viewBox="0 0 640 512"
+                                  className="brz-icon-svg"
+                                  data-type="fa"
+                                  data-name="biking"
+                                >
+                                  <path d="M400 96a48 48 0 1 0-48-48 48 48 0 0 0 48 48zm-4 121a31.9 31.9 0 0 0 20 7h64a32 32 0 0 0 0-64h-52.78L356 103a31.94 31.94 0 0 0-40.81.68l-112 96a32 32 0 0 0 3.08 50.92L288 305.12V416a32 32 0 0 0 64 0V288a32 32 0 0 0-14.25-26.62l-41.36-27.57 58.25-49.92zm116 39a128 128 0 1 0 128 128 128 128 0 0 0-128-128zm0 192a64 64 0 1 1 64-64 64 64 0 0 1-64 64zM128 256a128 128 0 1 0 128 128 128 128 0 0 0-128-128zm0 192a64 64 0 1 1 64-64 64 64 0 0 1-64 64z"></path>
+                                </svg>
+                              </span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="brz-css-ulyqq brz-wrapper">
+                        <div
+                          className="brz-rich-text brz-css-ffwou"
+                          data-custom-id="aszhsgumthapdgvcromifjatrgjiasvjyusm"
+                        >
+                          <p className="brz-text-lg-center brz-tp-abovetitle">
+                            <span className="brz-cp-color1">New Members</span>
+                          </p>
+                        </div>
+                      </div>
+                      <div className="brz-css-ulyqq brz-css-rpstn brz-wrapper">
+                        <div
+                          className="brz-rich-text brz-css-ffwou"
+                          data-custom-id="zwkidcwsybfgtqzwctyeugkxzuseypgfltbo"
+                        >
+                          <p className="brz-text-lg-center brz-tp-paragraph">
+                            <span className="brz-cp-color7">
+                              Our introductory ride for new members usually
+                              meets at 9 am outside Glossop Station on the first
+                              Sunday of the month.
+                            </span>
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    className="brz-columns brz-css-nkrhy brz-css-mstsw"
+                    data-custom-id="djelmhklpuqyeykhmxefegahpudnbanfcqbk"
+                  >
+                    <div className="brz-column__items brz-css-kupiz brz-css-cxtmz">
+                      <div className="brz-wrapper-clone brz-css-zpqtk">
+                        <div className="brz-d-xs-flex brz-flex-xs-wrap brz-css-phccw">
+                          <div
+                            className="brz-wrapper-clone__item brz-css-rmjnv"
+                            id="uaxsqauavfvhpqqnxnxojarhtfkqqiopmsxn"
+                          >
+                            <div
+                              className="brz-icon__container"
+                              data-custom-id="uaxsqauavfvhpqqnxnxojarhtfkqqiopmsxn"
+                            >
+                              <span className="brz-span brz-icon css-1ulh6l9">
+                                <svg
+                                  xmlns="http://www.w3.org/2000/svg"
+                                  viewBox="0 0 640 512"
+                                  className="brz-icon-svg"
+                                  data-type="fa"
+                                  data-name="bed"
+                                >
+                                  <path d="M176 256c44.11 0 80-35.89 80-80s-35.89-80-80-80-80 35.89-80 80 35.89 80 80 80zm352-128H304c-8.84 0-16 7.16-16 16v144H64V80c0-8.84-7.16-16-16-16H16C7.16 64 0 71.16 0 80v352c0 8.84 7.16 16 16 16h32c8.84 0 16-7.16 16-16v-48h512v48c0 8.84 7.16 16 16 16h32c8.84 0 16-7.16 16-16V240c0-61.86-50.14-112-112-112z"></path>
+                                </svg>
+                              </span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="brz-css-ulyqq brz-wrapper">
+                        <div
+                          className="brz-rich-text brz-css-ffwou"
+                          data-custom-id="xrnaynvfvixnzibrtunowmawllponbklasis"
+                        >
+                          <p className="brz-text-lg-center brz-tp-abovetitle">
+                            <span className="brz-cp-color1">RASR</span>
+                          </p>
+                        </div>
+                      </div>
+                      <div className="brz-css-ulyqq brz-css-gshgt brz-wrapper">
+                        <div
+                          className="brz-rich-text brz-css-ffwou"
+                          data-custom-id="rpistjfpavguqulgcpptozxfdknrgfjfxley"
+                        >
+                          <p className="brz-tp-paragraph brz-text-lg-center">
+                            <span className="brz-cp-color7">
+                              Retirees and Skivers Rides usually head out
+                              midweek daytimes at a leisurely pace.
+                            </span>
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    className="brz-columns brz-css-nkrhy brz-css-mgmmt"
+                    data-custom-id="hepniycpabvgfgmqwmrpetzlscmbfnlfehuh"
+                  >
+                    <div className="brz-column__items brz-css-kupiz brz-css-hexxr">
+                      <div className="brz-wrapper-clone brz-css-zpqtk">
+                        <div className="brz-d-xs-flex brz-flex-xs-wrap brz-css-phccw">
+                          <div
+                            className="brz-wrapper-clone__item brz-css-rmjnv"
+                            id="gunfrgcsbffvptqmlpuuodxromdpqjopjkow"
+                          >
+                            <div
+                              className="brz-icon__container"
+                              data-custom-id="gunfrgcsbffvptqmlpuuodxromdpqjopjkow"
+                            >
+                              <span className="brz-span brz-icon css-1ulh6l9">
+                                <svg
+                                  xmlns="http://www.w3.org/2000/svg"
+                                  viewBox="0 0 512 512"
+                                  className="brz-icon-svg"
+                                  data-type="fa"
+                                  data-name="check"
+                                >
+                                  <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path>
+                                </svg>
+                              </span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="brz-css-ulyqq brz-wrapper">
+                        <div
+                          className="brz-rich-text brz-css-ffwou"
+                          data-custom-id="emapyofhqbcredbrgmdkvyycynbocdhpjcrh"
+                        >
+                          <p className="brz-text-lg-center brz-tp-abovetitle">
+                            <span className="brz-cp-color1">DIY</span>
+                          </p>
+                        </div>
+                      </div>
+                      <div className="brz-css-ulyqq brz-wrapper">
+                        <div
+                          className="brz-rich-text brz-css-ffwou"
+                          data-custom-id="xsoududqbpgnqrmwvdnimhssienufqkghgfe"
+                        >
+                          <p className="brz-tp-paragraph brz-text-lg-center">
+                            <span className="brz-cp-color7">
+                              Club members post their own ad hoc rides on
+                              Facebook. Keep your eyes open or post your own
+                              ride.
+                            </span>
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section
+          data-uid="okbxwulopxkrghlcdycayczbfeaylnfqlsob"
+          id="join"
+          className="brz-section brz-css-cyazb"
+        >
+          <div
+            className="
+            brz-section__content brz-section--boxed
+            brz-css-pfaoa brz-css-ucpxl
+          "
+            data-custom-id="gejijsvuwaxuwawzsvvotdogeryobujjfxdm"
+          >
+            <div className="brz-bg">
+              <div className="brz-bg-color"></div>
+            </div>
+            <div className="brz-container brz-css-iohoh brz-css-ykzln">
+              <div className="brz-css-ulyqq brz-css-ztaik brz-wrapper">
+                <div
+                  className="brz-rich-text brz-css-ffwou"
+                  data-custom-id="ozoifzkyqciwhlrlwehlfxupfmtmhbhvhmut"
+                >
+                  <h2 className="brz-text-lg-center brz-tp-heading2">
+                    <span className="brz-cp-color1">Join GKV</span>
+                  </h2>
+                </div>
+              </div>
+              <div className="brz-css-ulyqq brz-css-gxptr brz-wrapper">
+                <div
+                  className="brz-rich-text brz-css-ffwou"
+                  data-custom-id="rxabflrnhpnkdmhpebrmrtopmulagdxmwgej"
+                >
+                  <p className="brz-text-lg-center brz-tp-subtitle">
+                    <span className="brz-cp-color2">
+                      Annual membership is only £10.
+                    </span>
+                  </p>
+                  <p className="brz-text-lg-center brz-tp-subtitle">
+                    <span className="brz-cp-color2">
+                      Feel free to come along a try a ride before committing to
+                      becoming a member.
+                    </span>
+                  </p>
+                </div>
+              </div>
+              <div className="brz-css-ulyqq brz-css-wfnbj brz-wrapper">
+                <div className="brz-spacer brz-css-efvry brz-css-bnlxg"></div>
+              </div>
+              <div
+                className="brz-row__container brz-css-pgcnn"
+                data-custom-id="euqsbsnlupjsqxfltqkzokfjtewruvsjydsf"
+              >
+                <div className="brz-row brz-css-dtako brz-css-fbamd">
+                  <div
+                    className="brz-columns brz-css-nkrhy brz-css-burna"
+                    data-custom-id="mrjetqhrysruxlynepmxryctktxymnwmztew"
+                  >
+                    <div className="brz-bg"></div>
+                    <div className="brz-column__items brz-css-kupiz brz-css-nwqap">
+                      <div className="brz-css-ulyqq brz-css-wfnbj brz-wrapper">
+                        <div className="brz-spacer brz-css-efvry brz-css-qhkrd"></div>
+                      </div>
+                      <div className="brz-wrapper-clone brz-css-zpqtk">
+                        <div
+                          className="
+                          brz-d-xs-flex
+                          brz-flex-xs-wrap
+                          brz-css-phccw
+                          brz-css-whmku
+                        "
+                        >
+                          <div
+                            className="
+                            brz-wrapper-clone__item
+                            brz-css-rmjnv brz-css-vfucf
+                          "
+                            id="chyqaixcycqmlzuciphlhitbsdpintwioikr"
+                          >
+                            <a
+                              className="brz-a brz-btn brz-css-cwnaj brz-css-uvqop"
+                              href="https://www.britishcycling.org.uk/club/profile/851/glossop-kinder-velo"
+                              target="_blank"
+                              rel="noreferrer"
+                              data-brz-link-type="external"
+                              data-custom-id="chyqaixcycqmlzuciphlhitbsdpintwioikr"
+                            >
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                viewbox="0 0 640 512"
+                                className="brz-icon-svg brz-css-nxopk brz-css-pusgv"
+                                data-type="fa"
+                                data-name="bicycle"
+                              >
+                                <path d="M512.509 192.001c-16.373-.064-32.03 2.955-46.436 8.495l-77.68-125.153A24 24 0 0 0 368.001 64h-64c-8.837 0-16 7.163-16 16v16c0 8.837 7.163 16 16 16h50.649l14.896 24H256.002v-16c0-8.837-7.163-16-16-16h-87.459c-13.441 0-24.777 10.999-24.536 24.437.232 13.044 10.876 23.563 23.995 23.563h48.726l-29.417 47.52c-13.433-4.83-27.904-7.483-42.992-7.52C58.094 191.83.412 249.012.002 319.236-.413 390.279 57.055 448 128.002 448c59.642 0 109.758-40.793 123.967-96h52.033a24 24 0 0 0 20.406-11.367L410.37 201.77l14.938 24.067c-25.455 23.448-41.385 57.081-41.307 94.437.145 68.833 57.899 127.051 126.729 127.719 70.606.685 128.181-55.803 129.255-125.996 1.086-70.941-56.526-129.72-127.476-129.996zM186.75 265.772c9.727 10.529 16.673 23.661 19.642 38.228h-43.306l23.664-38.228zM128.002 400c-44.112 0-80-35.888-80-80s35.888-80 80-80c5.869 0 11.586.653 17.099 1.859l-45.505 73.509C89.715 331.327 101.213 352 120.002 352h81.3c-12.37 28.225-40.562 48-73.3 48zm162.63-96h-35.624c-3.96-31.756-19.556-59.894-42.383-80.026L237.371 184h127.547l-74.286 120zm217.057 95.886c-41.036-2.165-74.049-35.692-75.627-76.755-.812-21.121 6.633-40.518 19.335-55.263l44.433 71.586c4.66 7.508 14.524 9.816 22.032 5.156l13.594-8.437c7.508-4.66 9.817-14.524 5.156-22.032l-44.468-71.643a79.901 79.901 0 0 1 19.858-2.497c44.112 0 80 35.888 80 80-.001 45.54-38.252 82.316-84.313 79.885z" />
+                              </svg>
+                              <span className="brz-span brz-text__editor">
+                                British Cycling
+                              </span>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="brz-css-ulyqq brz-css-wfnbj brz-wrapper">
+                        <div className="brz-spacer brz-css-efvry brz-css-jxdzd"></div>
+                      </div>
+                      <div className="brz-css-ulyqq brz-css-fgshc brz-wrapper">
+                        <div
+                          className="brz-rich-text brz-css-ffwou"
+                          data-custom-id="vknksngxxazfzjbjbagudjpebiqubsgxocsp"
+                        >
+                          <p className="brz-tp-paragraph brz-text-lg-center">
+                            <span className="brz-cp-color2">
+                              It is easy to join online via the British Cycling
+                              website. You can also purchase BC membership that
+                              includes insurance.
+                            </span>
+                          </p>
+                        </div>
+                      </div>
+                      <div className="brz-css-ulyqq brz-css-wfnbj brz-wrapper">
+                        <div className="brz-spacer brz-css-efvry brz-css-nlrsn"></div>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    className="brz-columns brz-css-nkrhy"
+                    data-custom-id="dtfmyuslfzczfwklbsxhztggkjegihkzosfp"
+                  >
+                    <div className="brz-column__items brz-css-kupiz brz-css-rodyq">
+                      <div className="brz-css-ulyqq brz-css-wfnbj brz-wrapper">
+                        <div className="brz-spacer brz-css-efvry brz-css-dydqc"></div>
+                      </div>
+                      <div className="brz-wrapper-clone brz-css-zpqtk">
+                        <div
+                          className="
+                          brz-d-xs-flex
+                          brz-flex-xs-wrap
+                          brz-css-phccw
+                          brz-css-zsxng
+                        "
+                        >
+                          <div
+                            className="
+                            brz-wrapper-clone__item
+                            brz-css-rmjnv brz-css-rfbpy
+                          "
+                            id="jvuestewenaxbzbuankjigbdsmjzvotznkmu"
+                          >
+                            <a
+                              className="brz-a brz-btn brz-css-cwnaj brz-css-wxmxj"
+                              href="mailto:gkvmembership@gmail.com"
+                              data-brz-link-type="external"
+                              data-custom-id="jvuestewenaxbzbuankjigbdsmjzvotznkmu"
+                            >
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                viewbox="0 0 512 512"
+                                className="brz-icon-svg brz-css-nxopk brz-css-njpym"
+                                data-type="fa"
+                                data-name="envelope"
+                              >
+                                <path d="M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z" />
+                              </svg>
+                              <span className="brz-span brz-text__editor">
+                                Email GKV
+                              </span>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="brz-css-ulyqq brz-css-wfnbj brz-wrapper">
+                        <div className="brz-spacer brz-css-efvry brz-css-gqgja"></div>
+                      </div>
+                      <div className="brz-css-ulyqq brz-css-epzno brz-wrapper">
+                        <div
+                          className="brz-rich-text brz-css-ffwou"
+                          data-custom-id="djlkdaflhkngqjrryozepxfzdknfmqelpydv"
+                        >
+                          <p className="brz-text-lg-center brz-tp-paragraph">
+                            <span className="brz-cp-color2">
+                              Alternatively, get in touch with our membership
+                              secretary Joanna.
+                            </span>
+                          </p>
+                        </div>
+                      </div>
+                      <div className="brz-css-ulyqq brz-css-wfnbj brz-wrapper">
+                        <div className="brz-spacer brz-css-efvry brz-css-dtuhg"></div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section
+          data-uid="dkjsoobaesrxqnftfpgzieawdeljyszhhipe"
+          id="dkjsoobaesrxqnftfpgzieawdeljyszhhipe"
+          className="brz-section brz-css-cyazb"
+        >
+          <div
+            className="
+            brz-section__content brz-section--boxed
+            brz-css-pfaoa brz-css-sopcf
+          "
+            data-custom-id="bsnaknjpgyxcsdsqsducmjaeimhjpqgrjvmr"
+          >
+            <div className="brz-bg">
+              <div className="brz-bg-color"></div>
+            </div>
+            <div className="brz-container brz-css-iohoh">
+              <div className="brz-css-ulyqq brz-wrapper">
+                <div
+                  className="brz-rich-text brz-css-ffwou"
+                  data-custom-id="mohzylqkobllrgjohvnzujzkphyozvewerst"
+                >
+                  <h2 className="brz-text-lg-center brz-tp-heading2">
+                    <span className="brz-cp-color8">GKV Committee</span>
+                  </h2>
+                </div>
+              </div>
+              <div className="brz-css-ulyqq brz-css-wfnbj brz-css-kyceg brz-wrapper">
+                <div className="brz-spacer brz-css-efvry brz-css-egbdj"></div>
+              </div>
+              <div
+                className="brz-row__container brz-css-pgcnn"
+                data-custom-id="zuiwvzuzrdbbxtlhxpljnzucsprssjrpmmay"
+              >
+                <div className="brz-row brz-css-dtako brz-css-fbamd">
+                  <div
+                    className="brz-columns brz-css-nkrhy brz-css-psvlx"
+                    data-custom-id="dmwfbizqjzljdfvksgkcludtouskhlmnilzw"
+                  >
+                    <div className="brz-column__items brz-css-kupiz brz-css-qowpa">
+                      <div className="brz-css-ulyqq brz-wrapper">
+                        <div className="brz-image brz-css-lebus brz-css-jhhxa">
+                          <picture
+                            className="
+                            brz-picture brz-d-block brz-p-relative brz-css-wcmqv
+                          "
+                            data-custom-id="zervnvpwpkxczwkdqwufnbaowetoqvbjsxnt"
+                          >
+                            <source
+                              srcset="
+                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=204&#038;iH=204&#038;oX=0&#038;oY=0&#038;cW=204&#038;cH=204/daves-1.jpg 1x,
+                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=408&#038;iH=408&#038;oX=0&#038;oY=0&#038;cW=408&#038;cH=408/daves-1.jpg 2x
+                            "
+                              media="(min-width: 992px)"
+                            />
+                            <source
+                              srcset="
+                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=118&#038;iH=118&#038;oX=0&#038;oY=0&#038;cW=118&#038;cH=118/daves-1.jpg 1x,
+                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=236&#038;iH=236&#038;oX=0&#038;oY=0&#038;cW=236&#038;cH=236/daves-1.jpg 2x
+                            "
+                              media="(min-width: 768px)"
+                            />
+                            <img
+                              className="brz-img brz-p-absolute"
+                              srcset="
+                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=170&#038;iH=170&#038;oX=0&#038;oY=2&#038;cW=170&#038;cH=167/daves-1.jpg 1x,
+                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=340&#038;iH=340&#038;oX=0&#038;oY=4&#038;cW=340&#038;cH=334/daves-1.jpg 2x
+                            "
+                              src="http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=204&#038;iH=204&#038;oX=0&#038;oY=0&#038;cW=204&#038;cH=204/daves-1.jpg"
+                              alt=""
+                              draggable="false"
+                              loading="lazy"
+                            />
+                          </picture>
+                        </div>
+                      </div>
+                      <div className="brz-css-ulyqq brz-css-lietc brz-wrapper">
+                        <div
+                          className="brz-rich-text brz-css-ffwou"
+                          data-custom-id="pvcwfzicrkgrssiibuzsbnkvagrmmlzlgvqp"
+                        >
+                          <h6 className="brz-tp-heading6">
+                            <span className="brz-cp-color1">Dave</span>
+                          </h6>
+                        </div>
+                      </div>
+                      <div className="brz-css-ulyqq brz-css-ctvds brz-wrapper">
+                        <div
+                          className="brz-rich-text brz-css-ffwou"
+                          data-custom-id="kwhcapbcpzubvaarkyfnxkvdfhwkprpoqfnc"
+                        >
+                          <p className="brz-tp-paragraph">
+                            <span className="brz-cp-color8">Acting Chair </span>
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    className="brz-columns brz-css-nkrhy brz-css-oliny"
+                    data-custom-id="ojxgnntldqjfqpikbasqsfymctiquqokmnto"
+                  >
+                    <div className="brz-column__items brz-css-kupiz brz-css-aptmm">
+                      <div className="brz-css-ulyqq brz-wrapper">
+                        <div className="brz-image brz-css-cegxu brz-css-vinux">
+                          <picture
+                            className="
+                            brz-picture brz-d-block brz-p-relative brz-css-kqqpo
+                          "
+                            data-custom-id="wztcktztepwiwltpwdtefqgjcqhgodgtdovq"
+                          >
+                            <source
+                              srcset="
+                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=206&#038;iH=206&#038;oX=1&#038;oY=0&#038;cW=204&#038;cH=206/IMG_3323-scaled-e1615453272879.jpg 1x,
+                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=412&#038;iH=412&#038;oX=2&#038;oY=0&#038;cW=408&#038;cH=412/IMG_3323-scaled-e1615453272879.jpg 2x
+                            "
+                              media="(min-width: 992px)"
+                            />
+                            <source
+                              srcset="
+                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=119&#038;iH=119&#038;oX=1&#038;oY=0&#038;cW=118&#038;cH=119/IMG_3323-scaled-e1615453272879.jpg 1x,
+                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=238&#038;iH=238&#038;oX=2&#038;oY=0&#038;cW=236&#038;cH=238/IMG_3323-scaled-e1615453272879.jpg 2x
+                            "
+                              media="(min-width: 768px)"
+                            />
+                            <img
+                              className="brz-img brz-p-absolute"
+                              srcset="
+                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=169&#038;iH=169&#038;oX=0&#038;oY=0&#038;cW=169&#038;cH=169/IMG_3323-scaled-e1615453272879.jpg 1x,
+                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=338&#038;iH=338&#038;oX=0&#038;oY=0&#038;cW=338&#038;cH=338/IMG_3323-scaled-e1615453272879.jpg 2x
+                            "
+                              src="http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=206&#038;iH=206&#038;oX=1&#038;oY=0&#038;cW=204&#038;cH=206/IMG_3323-scaled-e1615453272879.jpg"
+                              alt=""
+                              draggable="false"
+                              loading="lazy"
+                            />
+                          </picture>
+                        </div>
+                      </div>
+                      <div className="brz-css-ulyqq brz-css-haxys brz-wrapper">
+                        <div
+                          className="brz-rich-text brz-css-ffwou"
+                          data-custom-id="bfbtunstfducspruzhxkpegelatdzjsrloxe"
+                        >
+                          <h6 className="brz-tp-heading6">
+                            <span className="brz-cp-color1">Bryn</span>
+                          </h6>
+                        </div>
+                      </div>
+                      <div className="brz-css-ulyqq brz-css-fyorv brz-wrapper">
+                        <div
+                          className="brz-rich-text brz-css-ffwou"
+                          data-custom-id="vhsjkhahkwponrtzrkwpvmvxhgqmtmantgla"
+                        >
+                          <p className="brz-tp-paragraph">
+                            <span className="brz-cp-color8">Secretary</span>
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    className="brz-columns brz-css-nkrhy brz-css-gjcbz"
+                    data-custom-id="xydscakjmgofikojxeofyefbgtjcklpbdmfb"
+                  >
+                    <div className="brz-column__items brz-css-kupiz brz-css-epnxc">
+                      <div className="brz-css-ulyqq brz-wrapper">
+                        <div className="brz-image brz-css-dgbxi brz-css-hwzdk">
+                          <picture
+                            className="
+                            brz-picture brz-d-block brz-p-relative brz-css-rxnvy
+                          "
+                            data-custom-id="xbyyjyyeizihjobkkqolpddauurnxlkrdkan"
+                          >
+                            <source
+                              srcset="
+                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=204&#038;iH=204&#038;oX=0&#038;oY=1&#038;cW=204&#038;cH=202/33084144796_e2e150d599_o.jpg 1x,
+                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=408&#038;iH=408&#038;oX=0&#038;oY=2&#038;cW=408&#038;cH=404/33084144796_e2e150d599_o.jpg 2x
+                            "
+                              media="(min-width: 992px)"
+                            />
+                            <source
+                              srcset="
+                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=118&#038;iH=118&#038;oX=0&#038;oY=1&#038;cW=118&#038;cH=116/33084144796_e2e150d599_o.jpg 1x,
+                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=236&#038;iH=236&#038;oX=0&#038;oY=2&#038;cW=236&#038;cH=232/33084144796_e2e150d599_o.jpg 2x
+                            "
+                              media="(min-width: 768px)"
+                            />
+                            <img
+                              className="brz-img brz-p-absolute"
+                              srcset="
+                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=170&#038;iH=170&#038;oX=0&#038;oY=0&#038;cW=170&#038;cH=170/33084144796_e2e150d599_o.jpg 1x,
+                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=340&#038;iH=340&#038;oX=0&#038;oY=0&#038;cW=340&#038;cH=340/33084144796_e2e150d599_o.jpg 2x
+                            "
+                              src="http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=204&#038;iH=204&#038;oX=0&#038;oY=1&#038;cW=204&#038;cH=202/33084144796_e2e150d599_o.jpg"
+                              alt=""
+                              draggable="false"
+                              loading="lazy"
+                            />
+                          </picture>
+                        </div>
+                      </div>
+                      <div className="brz-css-ulyqq brz-css-nbxcg brz-wrapper">
+                        <div
+                          className="brz-rich-text brz-css-ffwou"
+                          data-custom-id="qxwdcpwhpnvzrvlpooteogptikahyefkilrl"
+                        >
+                          <h6 className="brz-tp-heading6">
+                            <span className="brz-cp-color1">Mike</span>
+                          </h6>
+                        </div>
+                      </div>
+                      <div className="brz-css-ulyqq brz-css-gegnv brz-wrapper">
+                        <div
+                          className="brz-rich-text brz-css-ffwou"
+                          data-custom-id="nbjveazhyjwtdcosapeivfkjtxajenikltas"
+                        >
+                          <p className="brz-tp-paragraph">
+                            <span className="brz-cp-color8">Treasurer</span>
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    className="brz-columns brz-css-nkrhy brz-css-qvdqz"
+                    data-custom-id="poqqgjghocdljjslxlwfnxlhvhbrzretgtbg"
+                  >
+                    <div className="brz-column__items brz-css-kupiz brz-css-grjqt">
+                      <div className="brz-css-ulyqq brz-wrapper">
+                        <div className="brz-image brz-css-sfgto brz-css-gwofi">
+                          <picture
+                            className="
+                            brz-picture brz-d-block brz-p-relative brz-css-gshiq
+                          "
+                            data-custom-id="bflcxbzwmvxlmoonhkuhvbwjlhmdrzvifwoe"
+                          >
+                            <source
+                              srcset="
+                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=204&#038;iH=204&#038;oX=0&#038;oY=0&#038;cW=204&#038;cH=204/21727528458_a42a4bfdeb_o.jpg 1x,
+                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=408&#038;iH=408&#038;oX=0&#038;oY=0&#038;cW=408&#038;cH=408/21727528458_a42a4bfdeb_o.jpg 2x
+                            "
+                              media="(min-width: 992px)"
+                            />
+                            <source
+                              srcset="
+                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=118&#038;iH=118&#038;oX=0&#038;oY=0&#038;cW=118&#038;cH=118/21727528458_a42a4bfdeb_o.jpg 1x,
+                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=236&#038;iH=236&#038;oX=0&#038;oY=0&#038;cW=236&#038;cH=236/21727528458_a42a4bfdeb_o.jpg 2x
+                            "
+                              media="(min-width: 768px)"
+                            />
+                            <img
+                              className="brz-img brz-p-absolute"
+                              srcset="
+                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=170&#038;iH=170&#038;oX=0&#038;oY=0&#038;cW=170&#038;cH=170/21727528458_a42a4bfdeb_o.jpg 1x,
+                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=340&#038;iH=340&#038;oX=0&#038;oY=0&#038;cW=340&#038;cH=340/21727528458_a42a4bfdeb_o.jpg 2x
+                            "
+                              src="http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=204&#038;iH=204&#038;oX=0&#038;oY=0&#038;cW=204&#038;cH=204/21727528458_a42a4bfdeb_o.jpg"
+                              alt=""
+                              draggable="false"
+                              loading="lazy"
+                            />
+                          </picture>
+                        </div>
+                      </div>
+                      <div className="brz-css-ulyqq brz-css-makqr brz-wrapper">
+                        <div
+                          className="brz-rich-text brz-css-ffwou"
+                          data-custom-id="nrebdrbsmhtmvogviukwhfvfqgwenxfshkqe"
+                        >
+                          <h6 className="brz-tp-heading6">
+                            <span className="brz-cp-color1">Joanna</span>
+                          </h6>
+                        </div>
+                      </div>
+                      <div className="brz-css-ulyqq brz-css-ptovl brz-wrapper">
+                        <div
+                          className="brz-rich-text brz-css-ffwou"
+                          data-custom-id="harcelpapwwytuzeyuyqxzykrairbqybuqvn"
+                        >
+                          <p className="brz-tp-paragraph">
+                            <span className="brz-cp-color8">Membership </span>
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    className="brz-columns brz-css-nkrhy brz-css-zcfbj"
+                    data-custom-id="cepfwmkpjkudlwurmwzelatvjcomdsvxwjtb"
+                  >
+                    <div className="brz-column__items brz-css-kupiz brz-css-clans">
+                      <div className="brz-css-ulyqq brz-wrapper">
+                        <div className="brz-image brz-css-pfekz brz-css-knsml">
+                          <picture
+                            className="
+                            brz-picture brz-d-block brz-p-relative brz-css-gypxi
+                          "
+                            data-custom-id="kptqybjcvxwlbupuwirqebqlvmorbrwbevrw"
+                          >
+                            <source
+                              srcset="
+                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=204&#038;iH=204&#038;oX=0&#038;oY=0&#038;cW=204&#038;cH=204/SJRGKV.jpg 1x,
+                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=408&#038;iH=408&#038;oX=0&#038;oY=0&#038;cW=408&#038;cH=408/SJRGKV.jpg 2x
+                            "
+                              media="(min-width: 992px)"
+                            />
+                            <source
+                              srcset="
+                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=118&#038;iH=118&#038;oX=0&#038;oY=0&#038;cW=118&#038;cH=118/SJRGKV.jpg 1x,
+                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=236&#038;iH=236&#038;oX=0&#038;oY=0&#038;cW=236&#038;cH=236/SJRGKV.jpg 2x
+                            "
+                              media="(min-width: 768px)"
+                            />
+                            <img
+                              className="brz-img brz-p-absolute"
+                              srcset="
+                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=170&#038;iH=170&#038;oX=0&#038;oY=0&#038;cW=170&#038;cH=170/SJRGKV.jpg 1x,
+                              http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=340&#038;iH=340&#038;oX=0&#038;oY=0&#038;cW=340&#038;cH=340/SJRGKV.jpg 2x
+                            "
+                              src="http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=204&#038;iH=204&#038;oX=0&#038;oY=0&#038;cW=204&#038;cH=204/SJRGKV.jpg"
+                              alt=""
+                              draggable="false"
+                              loading="lazy"
+                            />
+                          </picture>
+                        </div>
+                      </div>
+                      <div className="brz-css-ulyqq brz-css-yejtu brz-wrapper">
+                        <div
+                          className="brz-rich-text brz-css-ffwou"
+                          data-custom-id="dgxtyapvjlnxctiwnjxwmlxwisxrtzjavqpk"
+                        >
+                          <h6 className="brz-tp-heading6">
+                            <span className="brz-cp-color1">Sarah</span>
+                          </h6>
+                        </div>
+                      </div>
+                      <div className="brz-css-ulyqq brz-css-nfrtp brz-wrapper">
+                        <div
+                          className="brz-rich-text brz-css-ffwou"
+                          data-custom-id="qxvpbjbzehxjpualaobkffsarakwlilloszu"
+                        >
+                          <p className="brz-tp-paragraph">
+                            <span className="brz-cp-color8">Kit </span>
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section
+          data-uid="qqsngiuzrhgqhgztupyamdpuaftpudkhcavl"
+          id="affiliations"
+          className="brz-section brz-css-cyazb"
+        >
+          <div
+            className="
+            brz-section__content brz-section--boxed
+            brz-css-pfaoa brz-css-ruyya
+          "
+            data-custom-id="aafgusfhkdzuumcgzbmmzkzyggdvwvildzvk"
+          >
+            <div className="brz-bg">
+              <div className="brz-bg-color"></div>
+            </div>
+            <div className="brz-container brz-css-iohoh">
+              <div className="brz-css-ulyqq brz-css-kibmy brz-wrapper">
+                <div
+                  className="brz-rich-text brz-css-ffwou"
+                  data-custom-id="jegxskukhsmlmiwbiejpcjnfodthzawvyneg"
+                >
+                  <h2 className="brz-text-lg-center brz-tp-heading2">
+                    <span className="brz-cp-color2">
+                      GKV Affiliations and Supporters
+                    </span>
+                  </h2>
+                </div>
+              </div>
+              <div className="brz-css-ulyqq brz-css-ffcrx brz-wrapper">
+                <div
+                  className="brz-rich-text brz-css-ffwou"
+                  data-custom-id="xvffnodkvooaeycxixqfkcntmbhalqhobrsk"
+                >
+                  <p className="brz-text-lg-center brz-tp-paragraph brz-mb-lg-20">
+                    <span className="brz-cp-color7"> </span>
+                  </p>
+                </div>
+              </div>
+              <div
+                className="brz-row__container brz-css-pgcnn"
+                data-custom-id="xijfvupfbteqkbquynrobcydwdtquvkadjjy"
+              >
+                <div className="brz-row brz-css-dtako brz-css-fbamd">
+                  <div
+                    className="brz-columns brz-css-nkrhy brz-css-arins"
+                    data-custom-id="vdknoypoiqqwnoalgcarxhgljhlorgelkqeu"
+                  >
+                    <div className="brz-column__items brz-css-kupiz brz-css-kcgrz">
+                      <div className="brz-css-ulyqq brz-wrapper">
+                        <div className="brz-image brz-css-oumgo">
+                          <a
+                            className="brz-a"
+                            href="https://www.highpeakcycles.co.uk"
+                            target="_blank"
+                            rel="noreferrer"
+                            data-brz-link-type="external"
+                            data-custom-id="drginfcwmqcnjscjjqttfbpnbpypfuyhlplc"
+                          >
+                            <picture
+                              className="
+                              brz-picture
+                              brz-d-block
+                              brz-p-relative
+                              brz-css-xrqah
+                            "
+                            >
+                              <source
+                                srcset="
+                                http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=360&#038;iH=60&#038;oX=0&#038;oY=0&#038;cW=360&#038;cH=60/HPC.jpg   1x,
+                                http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=720&#038;iH=120&#038;oX=0&#038;oY=0&#038;cW=720&#038;cH=120/HPC.jpg 2x
+                              "
+                                media="(min-width: 992px)"
+                              />
+                              <source
+                                srcset="
+                                http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=216&#038;iH=36&#038;oX=0&#038;oY=0&#038;cW=216&#038;cH=36/HPC.jpg 1x,
+                                http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=432&#038;iH=72&#038;oX=0&#038;oY=0&#038;cW=432&#038;cH=72/HPC.jpg 2x
+                              "
+                                media="(min-width: 768px)"
+                              />
+                              <img
+                                className="brz-img brz-p-absolute"
+                                srcset="
+                                http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=320&#038;iH=53&#038;oX=0&#038;oY=0&#038;cW=320&#038;cH=53/HPC.jpg   1x,
+                                http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=640&#038;iH=106&#038;oX=0&#038;oY=0&#038;cW=640&#038;cH=106/HPC.jpg 2x
+                              "
+                                src="http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=360&#038;iH=60&#038;oX=0&#038;oY=0&#038;cW=360&#038;cH=60/HPC.jpg"
+                                alt=""
+                                draggable="false"
+                                loading="lazy"
+                              />
+                            </picture>
+                          </a>
+                        </div>
+                      </div>
+                      <div className="brz-css-ulyqq brz-css-wfnbj brz-wrapper">
+                        <div className="brz-spacer brz-css-efvry brz-css-rnhwi"></div>
+                      </div>
+                      <div className="brz-css-ulyqq brz-css-wnvkw brz-wrapper">
+                        <div
+                          className="brz-rich-text brz-css-ffwou"
+                          data-custom-id="gouctrfmpbdhylnbkyiwjwrchkwgqpgorxjf"
+                        >
+                          <h5 className="brz-text-lg-center brz-tp-heading5">
+                            <span className="brz-cp-color2">
+                              High Peak Cycles
+                            </span>
+                          </h5>
+                        </div>
+                      </div>
+                      <div className="brz-css-ulyqq brz-wrapper">
+                        <div
+                          className="brz-rich-text brz-css-ffwou"
+                          data-custom-id="cevktanwebjxyxwuyxtvbqhcdkinxcaufdaj"
+                        >
+                          <p className="brz-text-lg-center brz-tp-paragraph">
+                            <span className="brz-cp-color7">
+                              GKV is supported by our local bike shop, High Peak
+                              Cycles. Pop in and see Jamie for all of your
+                              cycling needs.
+                            </span>
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    className="brz-columns brz-css-nkrhy brz-css-eqmhd"
+                    data-custom-id="vapfapdhkttekbgysqcmlvmkmvxqujvrzpwm"
+                  >
+                    <div className="brz-column__items brz-css-kupiz brz-css-bxiqw">
+                      <div className="brz-css-ulyqq brz-wrapper">
+                        <div className="brz-image brz-css-webam">
+                          <a
+                            className="brz-a"
+                            href="https://www.britishcycling.org.uk/club/profile/851/glossop-kinder-velo"
+                            target="_blank"
+                            rel="noreferrer"
+                            data-brz-link-type="external"
+                            data-custom-id="ucgezhkugsuefiukcgvltucovqbfjxdtxdhs"
+                          >
+                            <picture
+                              className="
+                              brz-picture
+                              brz-d-block
+                              brz-p-relative
+                              brz-css-pavnz
+                            "
+                            >
+                              <source
+                                srcset="
+                                http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=203&#038;iH=95&#038;oX=0&#038;oY=0&#038;cW=203&#038;cH=95/bc-logo.png   1x,
+                                http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=406&#038;iH=190&#038;oX=0&#038;oY=0&#038;cW=406&#038;cH=190/bc-logo.png 2x
+                              "
+                                media="(min-width: 992px)"
+                              />
+                              <source
+                                srcset="
+                                http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=119&#038;iH=55&#038;oX=0&#038;oY=0&#038;cW=119&#038;cH=55/bc-logo.png   1x,
+                                http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=238&#038;iH=110&#038;oX=0&#038;oY=0&#038;cW=238&#038;cH=110/bc-logo.png 2x
+                              "
+                                media="(min-width: 768px)"
+                              />
+                              <img
+                                className="brz-img brz-p-absolute"
+                                srcset="
+                                http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=176&#038;iH=82&#038;oX=0&#038;oY=0&#038;cW=176&#038;cH=82/bc-logo.png   1x,
+                                http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=352&#038;iH=164&#038;oX=0&#038;oY=0&#038;cW=352&#038;cH=164/bc-logo.png 2x
+                              "
+                                src="http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=203&#038;iH=95&#038;oX=0&#038;oY=0&#038;cW=203&#038;cH=95/bc-logo.png"
+                                alt=""
+                                draggable="false"
+                                loading="lazy"
+                              />
+                            </picture>
+                          </a>
+                        </div>
+                      </div>
+                      <div className="brz-css-ulyqq brz-css-neksw brz-wrapper">
+                        <div
+                          className="brz-rich-text brz-css-ffwou"
+                          data-custom-id="sqocmaikeqyhdidmqkpyaecbfvxcwcftegnc"
+                        >
+                          <h5 className="brz-text-lg-center brz-tp-heading5">
+                            <span className="brz-cp-color2">
+                              British Cycling{" "}
+                            </span>
+                          </h5>
+                        </div>
+                      </div>
+                      <div className="brz-css-ulyqq brz-wrapper">
+                        <div
+                          className="brz-rich-text brz-css-ffwou"
+                          data-custom-id="ebsqlebusckkujrccltxbwegveqdkzqhdvvq"
+                        >
+                          <p className="brz-text-lg-center brz-tp-paragraph">
+                            <span className="brz-cp-color7">
+                              GKV is a British Cycling Go-Ride Club Mark Club
+                            </span>
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    className="brz-columns brz-css-nkrhy brz-css-gnynj"
+                    data-custom-id="svuupnxslrsftfdmwuafvhblzvilnhnqntzp"
+                  >
+                    <div className="brz-column__items brz-css-kupiz brz-css-rgxrt">
+                      <div className="brz-css-ulyqq brz-wrapper">
+                        <div className="brz-image brz-css-zdlmm">
+                          <a
+                            className="brz-a"
+                            href="https://www.cyclingtimetrials.org.uk"
+                            target="_blank"
+                            rel="noreferrer"
+                            data-brz-link-type="external"
+                            data-custom-id="tnxdyviqgdtxwjjeqxfcxbhzmkibmzakzxnk"
+                          >
+                            <picture
+                              className="
+                              brz-picture
+                              brz-d-block
+                              brz-p-relative
+                              brz-css-jaycy
+                            "
+                            >
+                              <source
+                                srcset="
+                                http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=235&#038;iH=109&#038;oX=0&#038;oY=8&#038;cW=235&#038;cH=92/CTT_2010_logo_2101.jpg   1x,
+                                http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=470&#038;iH=218&#038;oX=0&#038;oY=16&#038;cW=470&#038;cH=184/CTT_2010_logo_2101.jpg 2x
+                              "
+                                media="(min-width: 992px)"
+                              />
+                              <source
+                                srcset="
+                                http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=141&#038;iH=65&#038;oX=0&#038;oY=5&#038;cW=141&#038;cH=55/CTT_2010_logo_2101.jpg    1x,
+                                http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=282&#038;iH=130&#038;oX=0&#038;oY=10&#038;cW=282&#038;cH=110/CTT_2010_logo_2101.jpg 2x
+                              "
+                                media="(min-width: 768px)"
+                              />
+                              <img
+                                className="brz-img brz-p-absolute"
+                                srcset="
+                                http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=208&#038;iH=97&#038;oX=0&#038;oY=7&#038;cW=208&#038;cH=82/CTT_2010_logo_2101.jpg    1x,
+                                http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=416&#038;iH=194&#038;oX=0&#038;oY=14&#038;cW=416&#038;cH=164/CTT_2010_logo_2101.jpg 2x
+                              "
+                                src="http://www.glossopkindervelo.co.uk/wp-content/uploads/brizy/2043/assets/images/iW=235&#038;iH=109&#038;oX=0&#038;oY=8&#038;cW=235&#038;cH=92/CTT_2010_logo_2101.jpg"
+                                alt=""
+                                draggable="false"
+                                loading="lazy"
+                              />
+                            </picture>
+                          </a>
+                        </div>
+                      </div>
+                      <div className="brz-css-ulyqq brz-css-vascj brz-wrapper">
+                        <div
+                          className="brz-rich-text brz-css-ffwou"
+                          data-custom-id="upyhjkgneowrtbbbytesoqrfbowgvbkmirxk"
+                        >
+                          <h5 className="brz-tp-heading5 brz-text-lg-center">
+                            <span className="brz-cp-color2">CTT</span>
+                          </h5>
+                        </div>
+                      </div>
+                      <div className="brz-css-ulyqq brz-wrapper">
+                        <div
+                          className="brz-rich-text brz-css-ffwou"
+                          data-custom-id="nbrottrrwpncmjlypkrfexnshlnzhzjgschn"
+                        >
+                          <p className="brz-tp-paragraph brz-text-lg-center">
+                            <span className="brz-cp-color7">
+                              GKV is affiliated to Manchester District CTT
+                            </span>
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section
+          data-uid="afsdolcdnvgovmtyqoxsgjvqmrtexvxzsxmc"
+          id="socialmedia"
+          className="brz-section brz-css-cyazb"
+        >
+          <div
+            className="
+            brz-section__content brz-section--boxed
+            brz-css-pfaoa brz-css-kyjny
+          "
+            data-custom-id="oycbhftotpqychfbakcenwkmmcfqcscajiim"
+          >
+            <div className="brz-bg">
+              <div className="brz-bg-color"></div>
+            </div>
+            <div className="brz-container brz-css-iohoh">
+              <div className="brz-css-ulyqq brz-css-zzhji brz-wrapper">
+                <div
+                  className="brz-rich-text brz-css-ffwou"
+                  data-custom-id="hynsvqsalujhwlzoggajmhmnjjufalnxxmfh"
+                >
+                  <h2
+                    className="
+                    brz-text-lg-center
+                    brz-lh-lg-1_3
+                    brz-lh-sm-im-1_2
+                    brz-lh-xs-im-1_3
+                    brz-fs-lg-36 brz-fs-sm-im-30 brz-fs-xs-im-28
+                    brz-ls-lg-m_1_5
+                    brz-ls-sm-im-m_1
+                    brz-ls-xs-im-m_1
+                    brz-ff-red_hat_text
+                    brz-ft-google
+                    brz-fw-lg-700
+                    brz-fw-sm-im-700
+                    brz-fw-xs-im-700
+                  "
+                  >
+                    <span className="brz-cp-color2">Social Media</span>
+                  </h2>
+                </div>
+              </div>
+              <div className="brz-css-ulyqq brz-css-ewssr brz-wrapper">
+                <div
+                  className="brz-rich-text brz-css-ffwou"
+                  data-custom-id="tqsotjoprzsmegzukmwinjdffpyhsydqhyal"
+                >
+                  <p className="brz-text-lg-center brz-tp-paragraph brz-mb-lg-20">
+                    <span className="brz-cp-color5">
+                      The quickest way to find out about what we&#8217;re doing
+                      is on our social media channels.
+                    </span>
+                  </p>
+                </div>
+              </div>
+              <div
+                className="brz-row__container brz-css-pgcnn"
+                data-custom-id="hkfsriteofaabkempjymbobyjilcfvjndiwk"
+              >
+                <div className="brz-row brz-css-dtako brz-css-fbamd">
+                  <div
+                    className="brz-columns brz-css-nkrhy brz-css-rjsvx"
+                    data-custom-id="asucontdzhokwyvqghhdmrjidiaoypiifiga"
+                  >
+                    <div className="brz-column__items brz-css-kupiz brz-css-vfibz">
+                      <div className="brz-wrapper-clone brz-css-zpqtk">
+                        <div className="brz-d-xs-flex brz-flex-xs-wrap brz-css-phccw">
+                          <div
+                            className="brz-wrapper-clone__item brz-css-rmjnv"
+                            id="cjbxnokffgvvamkadruflyaexpqwoeamggio"
+                          >
+                            <div
+                              className="brz-icon__container"
+                              data-custom-id="cjbxnokffgvvamkadruflyaexpqwoeamggio"
+                            >
+                              <a
+                                className="brz-a"
+                                href="https://www.instagram.com/glossopkv/"
+                                target="_blank"
+                                rel="noreferrer"
+                                data-brz-link-type="external"
+                              >
+                                <span className="brz-span brz-icon css-1iz255g">
+                                  <svg
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewbox="0 0 448 512"
+                                    className="brz-icon-svg"
+                                    data-type="fa"
+                                    data-name="instagram"
+                                  >
+                                    <path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z" />
+                                  </svg>
+                                </span>
+                              </a>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="brz-css-ulyqq brz-css-lmwis brz-wrapper">
+                        <div
+                          className="brz-rich-text brz-css-ffwou"
+                          data-custom-id="cusiaqquvacqvygyquyxlqmblqcbvsgiarse"
+                        >
+                          <h5 className="brz-text-lg-center brz-tp-heading5">
+                            <span className="brz-cp-color2">Instagram</span>
+                          </h5>
+                        </div>
+                      </div>
+                      <div className="brz-css-ulyqq brz-wrapper">
+                        <div
+                          className="brz-rich-text brz-css-ffwou"
+                          data-custom-id="stuzfywiwtjrngkqaclgpovujhnqpgvwposp"
+                        >
+                          <p
+                            className="
+                            brz-text-lg-center brz-bcp-color7 brz-tp-paragraph
+                          "
+                          >
+                            <span style={{ color: "rgb(0, 0, 0)" }}>
+                              Photos of what we&#8217;ve been up to.
+                            </span>
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                    <a
+                      className="brz-a brz-container-link"
+                      href="https://www.instagram.com/glossopkv/"
+                      target="_blank"
+                      rel="noreferrer"
+                      data-brz-link-type="external"
+                    >
+                      i
+                    </a>
+                  </div>
+                  <div
+                    className="brz-columns brz-css-nkrhy brz-css-rfqha"
+                    data-custom-id="bubsfexzdfqczyrssjwfalsekvxltqeizjke"
+                  >
+                    <div className="brz-column__items brz-css-kupiz brz-css-tibzb">
+                      <div className="brz-wrapper-clone brz-css-zpqtk">
+                        <div className="brz-d-xs-flex brz-flex-xs-wrap brz-css-phccw">
+                          <div
+                            className="brz-wrapper-clone__item brz-css-rmjnv"
+                            id="pztsiqzcpcasiuolqfyghchahdjvzewoffjv"
+                          >
+                            <div
+                              className="brz-icon__container"
+                              data-custom-id="pztsiqzcpcasiuolqfyghchahdjvzewoffjv"
+                            >
+                              <a
+                                className="brz-a"
+                                href="https://www.flickr.com/people/92639046@N07/"
+                                target="_blank"
+                                rel="noreferrer"
+                                data-brz-link-type="external"
+                              >
+                                <span className="brz-span brz-icon css-1iz255g">
+                                  <svg
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewbox="0 0 448 512"
+                                    className="brz-icon-svg"
+                                    data-type="fa"
+                                    data-name="flickr"
+                                  >
+                                    <path d="M400 32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zM144.5 319c-35.1 0-63.5-28.4-63.5-63.5s28.4-63.5 63.5-63.5 63.5 28.4 63.5 63.5-28.4 63.5-63.5 63.5zm159 0c-35.1 0-63.5-28.4-63.5-63.5s28.4-63.5 63.5-63.5 63.5 28.4 63.5 63.5-28.4 63.5-63.5 63.5z" />
+                                  </svg>
+                                </span>
+                              </a>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="brz-css-ulyqq brz-css-coqlb brz-wrapper">
+                        <div
+                          className="brz-rich-text brz-css-ffwou"
+                          data-custom-id="bzpwsbdxmoxsvfyxpzkqashqzzriwegaxlce"
+                        >
+                          <h5 className="brz-tp-heading5 brz-text-lg-center">
+                            <span className="brz-cp-color2">Flickr</span>
+                          </h5>
+                        </div>
+                      </div>
+                      <div className="brz-css-ulyqq brz-wrapper">
+                        <div
+                          className="brz-rich-text brz-css-ffwou"
+                          data-custom-id="ezuieubffblmnkyiqtvyjifyxknuxrsnfobd"
+                        >
+                          <p className="brz-text-lg-center brz-tp-paragraph">
+                            Photos of our events
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                    <a
+                      className="brz-a brz-container-link"
+                      href="https://www.flickr.com/people/92639046@N07/"
+                      target="_blank"
+                      rel="noreferrer"
+                      data-brz-link-type="external"
+                    >
+                      f
+                    </a>
+                  </div>
+                  <div
+                    className="brz-columns brz-css-nkrhy brz-css-nciwn"
+                    data-custom-id="bivwxqtrdikizcirbakliywzluftgrdxfmly"
+                  >
+                    <div className="brz-column__items brz-css-kupiz brz-css-oqjqc">
+                      <div className="brz-wrapper-clone brz-css-zpqtk">
+                        <div className="brz-d-xs-flex brz-flex-xs-wrap brz-css-phccw">
+                          <div
+                            className="brz-wrapper-clone__item brz-css-rmjnv"
+                            id="hgqobyalnitgzohqhvttsbbcspbaykxciqln"
+                          >
+                            <div
+                              className="brz-icon__container"
+                              data-custom-id="hgqobyalnitgzohqhvttsbbcspbaykxciqln"
+                            >
+                              <a
+                                className="brz-a"
+                                href="https://www.facebook.com/groups/glossopkindervelo"
+                                target="_blank"
+                                rel="noreferrer"
+                                data-brz-link-type="external"
+                              >
+                                <span className="brz-span brz-icon css-1iz255g">
+                                  <svg
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewbox="0 0 512 512"
+                                    className="brz-icon-svg"
+                                    data-type="fa"
+                                    data-name="facebook"
+                                  >
+                                    <path d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z" />
+                                  </svg>
+                                </span>
+                              </a>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="brz-css-ulyqq brz-css-fpbpw brz-wrapper">
+                        <div
+                          className="brz-rich-text brz-css-ffwou"
+                          data-custom-id="mrnlsduexpinnqveltsamiwodoqoubrhazst"
+                        >
+                          <h5 className="brz-text-lg-center brz-tp-heading5">
+                            <span className="brz-cp-color2">Facebook</span>
+                          </h5>
+                        </div>
+                      </div>
+                      <div className="brz-css-ulyqq brz-wrapper">
+                        <div
+                          className="brz-rich-text brz-css-ffwou"
+                          data-custom-id="xukekunrrtjgbkwdmhrhhooptrztjmktppug"
+                        >
+                          <p className="brz-tp-paragraph brz-text-lg-center">
+                            Where we organise everything.
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                    <a
+                      className="brz-a brz-container-link"
+                      href="https://www.facebook.com/groups/glossopkindervelo"
+                      target="_blank"
+                      rel="noreferrer"
+                      data-brz-link-type="external"
+                    >
+                      f
+                    </a>
+                  </div>
+                  <div
+                    className="brz-columns brz-css-nkrhy brz-css-lqqjc"
+                    data-custom-id="zrfutmntuyyrutfvicvnczenloozhhcsfshh"
+                  >
+                    <div className="brz-column__items brz-css-kupiz brz-css-yewsi">
+                      <div className="brz-wrapper-clone brz-css-zpqtk">
+                        <div className="brz-d-xs-flex brz-flex-xs-wrap brz-css-phccw">
+                          <div
+                            className="brz-wrapper-clone__item brz-css-rmjnv"
+                            id="cfdyksvsgvnqdwzsllzskgjtfagevazfgfhb"
+                          >
+                            <div
+                              className="brz-icon__container"
+                              data-custom-id="cfdyksvsgvnqdwzsllzskgjtfagevazfgfhb"
+                            >
+                              <a
+                                className="brz-a"
+                                href="https://twitter.com/GKVCC"
+                                target="_blank"
+                                rel="noreferrer"
+                                data-brz-link-type="external"
+                              >
+                                <span className="brz-span brz-icon css-1iz255g">
+                                  <svg
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewbox="0 0 512 512"
+                                    className="brz-icon-svg"
+                                    data-type="fa"
+                                    data-name="twitter"
+                                  >
+                                    <path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z" />
+                                  </svg>
+                                </span>
+                              </a>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="brz-css-ulyqq brz-css-tzald brz-wrapper">
+                        <div
+                          className="brz-rich-text brz-css-ffwou"
+                          data-custom-id="ccemgosekqyulugoyjjggymnmvwskfpaxyyg"
+                        >
+                          <h5 className="brz-tp-heading5 brz-text-lg-center">
+                            <span className="brz-cp-color2">Twitter</span>
+                          </h5>
+                        </div>
+                      </div>
+                      <div className="brz-css-ulyqq brz-wrapper">
+                        <div
+                          className="brz-rich-text brz-css-ffwou"
+                          data-custom-id="mxuwfursnlpyqqdfjqgxlzpfoivyxunnghtg"
+                        >
+                          <p className="brz-text-lg-center brz-tp-paragraph">
+                            Club news and events.
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                    <a
+                      className="brz-a brz-container-link"
+                      href="https://twitter.com/GKVCC"
+                      target="_blank"
+                      rel="noreferrer"
+                      data-brz-link-type="external"
+                    >
+                      t
+                    </a>
+                  </div>
+                  <div
+                    className="brz-columns brz-css-nkrhy brz-css-gjxnm"
+                    data-custom-id="rjgwvpgiybnyqsvaaideqwcxctlnetwhaqdi"
+                  >
+                    <div className="brz-column__items brz-css-kupiz brz-css-qvmeg">
+                      <div className="brz-wrapper-clone brz-css-zpqtk">
+                        <div className="brz-d-xs-flex brz-flex-xs-wrap brz-css-phccw">
+                          <div
+                            className="brz-wrapper-clone__item brz-css-rmjnv"
+                            id="fitudfhpsaofggluekmmpzdyopnwkvhvseax"
+                          >
+                            <div
+                              className="brz-icon__container"
+                              data-custom-id="fitudfhpsaofggluekmmpzdyopnwkvhvseax"
+                            >
+                              <a
+                                className="brz-a"
+                                href="https://www.strava.com/clubs/GKVCC"
+                                target="_blank"
+                                rel="noreferrer"
+                                data-brz-link-type="external"
+                              >
+                                <span className="brz-span brz-icon css-1iz255g">
+                                  <svg
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewbox="0 0 384 512"
+                                    className="brz-icon-svg"
+                                    data-type="fa"
+                                    data-name="strava"
+                                  >
+                                    <path d="M158.4 0L7 292h89.2l62.2-116.1L220.1 292h88.5zm150.2 292l-43.9 88.2-44.6-88.2h-67.6l112.2 220 111.5-220z" />
+                                  </svg>
+                                </span>
+                              </a>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="brz-css-ulyqq brz-css-gkrdq brz-wrapper">
+                        <div
+                          className="brz-rich-text brz-css-ffwou"
+                          data-custom-id="brqscdpeluiexflsymptiqddgmavqtlxrvqw"
+                        >
+                          <h5 className="brz-text-lg-center brz-tp-heading5">
+                            <span className="brz-cp-color2">Strava</span>
+                          </h5>
+                        </div>
+                      </div>
+                      <div className="brz-css-ulyqq brz-wrapper">
+                        <div
+                          className="brz-rich-text brz-css-ffwou"
+                          data-custom-id="pwdowdekzhmbkljznhbpddzmjfqgscelctun"
+                        >
+                          <p className="brz-text-lg-center brz-tp-paragraph">
+                            See where we have been riding.
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                    <a
+                      className="brz-a brz-container-link"
+                      href="https://www.strava.com/clubs/GKVCC"
+                      target="_blank"
+                      rel="noreferrer"
+                      data-brz-link-type="external"
+                    >
+                      s
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+      <div className="ct-drawer-canvas">
+        <div
+          id="offcanvas"
+          className="ct-panel ct-header"
+          data-behaviour="right-side"
+          data-device="mobile"
+        >
+          <section>
+            <div className="ct-panel-actions">
+              <div className="close-button">
+                <span className="ct-trigger closed">
+                  <span></span>
+                </span>
+              </div>
+            </div>
+            <div className="ct-panel-content" data-device="desktop"></div>
+            <div className="ct-panel-content" data-device="mobile">
+              <nav
+                className="mobile-menu has-submenu"
+                data-id="mobile-menu"
+                data-type="type-1"
+              >
+                <ul>
+                  <li
+                    className="
+                    page_item page-item-2043
+                    current_page_item current-menu-item
+                  "
+                  >
+                    <a
+                      href="http://www.glossopkindervelo.co.uk/"
+                      aria-current="page"
+                    >
+                      Home
+                    </a>
+                  </li>
+                  <li className="page_item page-item-2138">
+                    <a href="http://www.glossopkindervelo.co.uk/maintenance-page/">
+                      Maintenance Page
+                    </a>
+                  </li>
+                  <li
+                    className="
+                    page_item page-item-46 page_item_has_children
+                    menu-item-has-children
+                  "
+                  >
+                    <a href="http://www.glossopkindervelo.co.uk/news/">
+                      News
+                      <span className="child-indicator">
+                        <svg width="8" height="8" viewBox="0 0 15 15">
+                          <path d="M2.1,3.2l5.4,5.4l5.4-5.4L15,4.3l-7.5,7.5L0,4.3L2.1,3.2z" />
+                        </svg>
+                      </span>
+                    </a>
+                    <ul className="sub-menu">
+                      <li className="page_item page-item-388">
+                        <a href="http://www.glossopkindervelo.co.uk/news/trip-reports/">
+                          LEJOG 2010
+                        </a>
+                      </li>
+                      <li className="page_item page-item-386">
+                        <a href="http://www.glossopkindervelo.co.uk/news/race-reports/">
+                          Race reports
+                        </a>
+                      </li>
+                      <li
+                        className="
+                        page_item page-item-732 page_item_has_children
+                        menu-item-has-children
+                      "
+                      >
+                        <a href="http://www.glossopkindervelo.co.uk/news/trip-reports-2/">
+                          Trip reports
+                          <span className="child-indicator">
+                            <svg width="8" height="8" viewBox="0 0 15 15">
+                              <path d="M2.1,3.2l5.4,5.4l5.4-5.4L15,4.3l-7.5,7.5L0,4.3L2.1,3.2z" />
+                            </svg>
+                          </span>
+                        </a>
+                        <ul className="sub-menu">
+                          <li className="page_item page-item-729">
+                            <a href="http://www.glossopkindervelo.co.uk/news/trip-reports-2/costa-rica/">
+                              Costa Rica
+                            </a>
+                          </li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </li>
+                  <li
+                    className="
+                    page_item page-item-52 page_item_has_children
+                    menu-item-has-children
+                  "
+                  >
+                    <a href="http://www.glossopkindervelo.co.uk/results/">
+                      Results
+                      <span className="child-indicator">
+                        <svg width="8" height="8" viewBox="0 0 15 15">
+                          <path d="M2.1,3.2l5.4,5.4l5.4-5.4L15,4.3l-7.5,7.5L0,4.3L2.1,3.2z" />
+                        </svg>
+                      </span>
+                    </a>
+                    <ul className="sub-menu">
+                      <li className="page_item page-item-358">
+                        <a href="http://www.glossopkindervelo.co.uk/results/2011-summer-tt-series/">
+                          2011 summer TT series
+                        </a>
+                      </li>
+                      <li className="page_item page-item-1052">
+                        <a href="http://www.glossopkindervelo.co.uk/results/2012-summer-club-tt-series-results/">
+                          2012 Summer Club TT Series Results
+                        </a>
+                      </li>
+                      <li className="page_item page-item-392">
+                        <a href="http://www.glossopkindervelo.co.uk/results/archive/">
+                          Club 10s results archive
+                        </a>
+                      </li>
+                      <li className="page_item page-item-547">
+                        <a href="http://www.glossopkindervelo.co.uk/results/results-archive/">
+                          Results archive
+                        </a>
+                      </li>
+                      <li className="page_item page-item-1058">
+                        <a href="http://www.glossopkindervelo.co.uk/results/snake-hill-climb-2012-results/">
+                          Snake Hill Climb 2012 results
+                        </a>
+                      </li>
+                    </ul>
+                  </li>
+                  <li className="page_item page-item-188">
+                    <a href="http://www.glossopkindervelo.co.uk/go-ride/">
+                      Youth Squad
+                    </a>
+                  </li>
+                  <li className="page_item page-item-54">
+                    <a href="http://www.glossopkindervelo.co.uk/gallery/">
+                      Gallery
+                    </a>
+                  </li>
+                  <li className="page_item page-item-56">
+                    <a href="http://www.glossopkindervelo.co.uk/links/">
+                      Links
+                    </a>
+                  </li>
+                  <li className="page_item page-item-58">
+                    <a href="http://www.glossopkindervelo.co.uk/contacts/">
+                      Contacts
+                    </a>
+                  </li>
+                  <li className="page_item page-item-313">
+                    <a href="http://www.glossopkindervelo.co.uk/cycling-events/summer-tts/">
+                      Summer Time Trial Series
+                    </a>
+                  </li>
+                </ul>
+              </nav>
+            </div>
+          </section>
+        </div>
+      </div>
     </div>
   );
-}
+};
 
 export default App;
