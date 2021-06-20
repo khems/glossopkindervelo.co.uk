@@ -5,7 +5,7 @@ import "./styles/main.css";
 import "./styles/preview.css";
 import "./styles/style.css";
 
-import logo from "./img/GKV_Logo2.jpeg";
+import logo from "./img/GKV_Logo2-min.svg";
 import dave from "./img/daves-1.jpg";
 import bryn from "./img/IMG_3323-scaled-e1615453272879.jpg";
 import mike from "./img/33084144796_e2e150d599_o.jpg";
