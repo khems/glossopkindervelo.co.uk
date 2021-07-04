@@ -7418,3 +7418,12 @@ section.elementor-section.elementor-section-boxed > .elementor-container {
   font-size: 58px !important;
   stroke-width: 0;
 }
+
+.svg-container {
+  height: 48px;
+  width: auto;
+  padding-right: 1em;
+  fill: white;
+  stroke: white;
+  color: white;
+}

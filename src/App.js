@@ -19,6 +19,8 @@ import facebook from "./img/facebook.svg";
 import flickr from "./img/flickr.svg";
 import twitter from "./img/twitter.svg";
 import strava from "./img/strava.svg";
+import bicycle from "./img/bicycle.svg";
+import envelope from "./img/envelope.svg";
 
 const App = () => {
   return (
@@ -852,7 +854,7 @@ const App = () => {
                 </div>
               </div>
               <div className="brz-css-ulyqq brz-css-wfnbj brz-wrapper">
-                <div className="brz-spacer brz-css-efvry brz-css-bnlxg"></div>
+                <div className="brz-spacer brz-css-efvry brz-css-bnlxg" />
               </div>
               <div
                 className="brz-row__container brz-css-pgcnn"
@@ -863,10 +865,10 @@ const App = () => {
                     className="brz-columns brz-css-nkrhy brz-css-burna"
                     data-custom-id="mrjetqhrysruxlynepmxryctktxymnwmztew"
                   >
-                    <div className="brz-bg"></div>
+                    <div className="brz-bg" />
                     <div className="brz-column__items brz-css-kupiz brz-css-nwqap">
                       <div className="brz-css-ulyqq brz-css-wfnbj brz-wrapper">
-                        <div className="brz-spacer brz-css-efvry brz-css-qhkrd"></div>
+                        <div className="brz-spacer brz-css-efvry brz-css-qhkrd" />
                       </div>
                       <div className="brz-wrapper-clone brz-css-zpqtk">
                         <div
@@ -892,15 +894,13 @@ const App = () => {
                               data-brz-link-type="external"
                               data-custom-id="chyqaixcycqmlzuciphlhitbsdpintwioikr"
                             >
-                              <svg
-                                xmlns="http://www.w3.org/2000/svg"
-                                viewbox="0 0 640 512"
-                                className="brz-icon-svg brz-css-nxopk brz-css-pusgv"
-                                data-type="fa"
-                                data-name="bicycle"
-                              >
-                                <path d="M512.509 192.001c-16.373-.064-32.03 2.955-46.436 8.495l-77.68-125.153A24 24 0 0 0 368.001 64h-64c-8.837 0-16 7.163-16 16v16c0 8.837 7.163 16 16 16h50.649l14.896 24H256.002v-16c0-8.837-7.163-16-16-16h-87.459c-13.441 0-24.777 10.999-24.536 24.437.232 13.044 10.876 23.563 23.995 23.563h48.726l-29.417 47.52c-13.433-4.83-27.904-7.483-42.992-7.52C58.094 191.83.412 249.012.002 319.236-.413 390.279 57.055 448 128.002 448c59.642 0 109.758-40.793 123.967-96h52.033a24 24 0 0 0 20.406-11.367L410.37 201.77l14.938 24.067c-25.455 23.448-41.385 57.081-41.307 94.437.145 68.833 57.899 127.051 126.729 127.719 70.606.685 128.181-55.803 129.255-125.996 1.086-70.941-56.526-129.72-127.476-129.996zM186.75 265.772c9.727 10.529 16.673 23.661 19.642 38.228h-43.306l23.664-38.228zM128.002 400c-44.112 0-80-35.888-80-80s35.888-80 80-80c5.869 0 11.586.653 17.099 1.859l-45.505 73.509C89.715 331.327 101.213 352 120.002 352h81.3c-12.37 28.225-40.562 48-73.3 48zm162.63-96h-35.624c-3.96-31.756-19.556-59.894-42.383-80.026L237.371 184h127.547l-74.286 120zm217.057 95.886c-41.036-2.165-74.049-35.692-75.627-76.755-.812-21.121 6.633-40.518 19.335-55.263l44.433 71.586c4.66 7.508 14.524 9.816 22.032 5.156l13.594-8.437c7.508-4.66 9.817-14.524 5.156-22.032l-44.468-71.643a79.901 79.901 0 0 1 19.858-2.497c44.112 0 80 35.888 80 80-.001 45.54-38.252 82.316-84.313 79.885z" />
-                              </svg>
+                              <div class="square-icon-container">
+                                <img
+                                  className="svg-container"
+                                  src={bicycle}
+                                  alt="bicycle"
+                                />
+                              </div>
                               <span className="brz-span brz-text__editor">
                                 British Cycling
                               </span>
@@ -960,15 +960,13 @@ const App = () => {
                               data-brz-link-type="external"
                               data-custom-id="jvuestewenaxbzbuankjigbdsmjzvotznkmu"
                             >
-                              <svg
-                                xmlns="http://www.w3.org/2000/svg"
-                                viewbox="0 0 512 512"
-                                className="brz-icon-svg brz-css-nxopk brz-css-njpym"
-                                data-type="fa"
-                                data-name="envelope"
-                              >
-                                <path d="M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z" />
-                              </svg>
+                              <div class="square-icon-container">
+                                <img
+                                  className="svg-container"
+                                  src={envelope}
+                                  alt="envelope"
+                                />
+                              </div>
                               <span className="brz-span brz-text__editor">
                                 Email GKV
                               </span>
