@@ -1364,7 +1364,7 @@ const App = () => {
                           data-custom-id="cevktanwebjxyxwuyxtvbqhcdkinxcaufdaj"
                         >
                           <p className="brz-text-lg-center brz-tp-paragraph">
-                            <span className="brz-cp-color7">
+                            <span className="brz-cp-color2">
                               GKV is supported by our local bike shop, High Peak
                               Cycles. Pop in and see Jamie for all of your
                               cycling needs.
@@ -1415,7 +1415,7 @@ const App = () => {
                         >
                           <h5 className="brz-text-lg-center brz-tp-heading5">
                             <span className="brz-cp-color2">
-                              British Cycling{" "}
+                              British Cycling
                             </span>
                           </h5>
                         </div>
@@ -1426,7 +1426,7 @@ const App = () => {
                           data-custom-id="ebsqlebusckkujrccltxbwegveqdkzqhdvvq"
                         >
                           <p className="brz-text-lg-center brz-tp-paragraph">
-                            <span className="brz-cp-color7">
+                            <span className="brz-cp-color2">
                               GKV is a British Cycling Go-Ride Club Mark Club
                             </span>
                           </p>
@@ -1484,7 +1484,7 @@ const App = () => {
                           data-custom-id="nbrottrrwpncmjlypkrfexnshlnzhzjgschn"
                         >
                           <p className="brz-tp-paragraph brz-text-lg-center">
-                            <span className="brz-cp-color7">
+                            <span className="brz-cp-color2">
                               GKV is affiliated to Manchester District CTT
                             </span>
                           </p>
