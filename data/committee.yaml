@@ -1,0 +1,15 @@
+- name: Dave
+  role: Chair
+  image: images/committee/dave.jpg
+- name: Bryn
+  role: Secretary
+  image: images/committee/bryn.jpg
+- name: Mike
+  role: Treasurer
+  image: images/committee/mike.jpg
+- name: Joanna
+  role: Membership
+  image: images/committee/joanna.jpg
+- name: Sarah
+  role: Kit
+  image: images/committee/sarah.jpg
