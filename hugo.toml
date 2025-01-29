@@ -1,0 +1,4 @@
+baseURL = 'https://glossopkindervelo.co.uk'
+languageCode = 'en'
+title = 'Glossop Kinder Velo'
+theme = 'ananke'
