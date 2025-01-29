@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Glossop Kinder Velo</title>
-    <link>http://localhost:1313/</link>
+    <link>https://glossopkindervelo.co.uk/</link>
     <description>Recent content on Glossop Kinder Velo</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://glossopkindervelo.co.uk/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
