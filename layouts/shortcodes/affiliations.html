@@ -1,25 +1,13 @@
 <div class="affiliations">
+  {{ range .Site.Data.affiliations.affiliations }}
   <div class="affiliation">
-    <a href="https://www.britishcycling.org.uk/club/profile/851/glossop-kinder-velo-cycling-club/" target="_blank" rel="noopener noreferrer">
-      <img src="/images/affiliations/BC_logo.png" alt="British Cycling" />
+    <a href="{{ .url }}" target="_blank" rel="noopener noreferrer">
+      <img src="{{ .image }}" alt="{{ .alt }}" />
     </a>
-    <h4>British Cycling</h4>
-    <p>GKV is a British Cycling Go-Ride Club Mark Club</p>
+    <h4>{{ .name }}</h4>
+    <p>{{ .description }}</p>
   </div>
-  <div class="affiliation">
-    <a href="https://www.ctt.org.uk/" target="_blank" rel="noopener noreferrer">
-      <img src="/images/affiliations/ctt.jpg" alt="CTT" />
-    </a>
-    <h4>CTT</h4>
-    <p>GKV is affiliated to Manchester District CTT</p>
-  </div>
-  <div class="affiliation">
-    <a href="https://high-peak-cycles.com/" target="_blank" rel="noopener noreferrer">
-      <img src="/images/affiliations/HPC_logo.jpg" alt="High Peak Cycles" />
-    </a>
-    <h4>High Peak Cycles</h4>
-    <p>GKV is supported by our local bike shop, High Peak Cycles. Pop in and see Jamie for all of your cycling needs.</p>
-  </div>
+  {{ end }}
 </div>
 
 <style>
