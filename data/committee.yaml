@@ -13,3 +13,9 @@
 - name: Sarah
   role: Kit
   image: images/committee/sarah.jpg
+- name: Ricardo
+  role: Committee
+  image: images/committee/ricardo.jpg
+- name: Paul
+  role: Committee
+  image: images/committee/paul.jpg
