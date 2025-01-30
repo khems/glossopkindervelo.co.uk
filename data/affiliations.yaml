@@ -1,16 +1,16 @@
 affiliations:
   - name: "British Cycling"
     url: "https://www.britishcycling.org.uk/club/profile/851/glossop-kinder-velo-cycling-club/"
-    image: "/images/affiliations/BC_logo.png"
+    image: images/affiliations/BC_logo.png
     alt: "British Cycling"
     description: "GKV is a British Cycling Go-Ride Club Mark Club"
   - name: "CTT"
     url: "https://www.ctt.org.uk/"
-    image: "/images/affiliations/ctt.jpg"
+    image: images/affiliations/ctt.jpg
     alt: "CTT"
     description: "GKV is affiliated to Manchester District CTT"
   - name: "High Peak Cycles"
     url: "https://high-peak-cycles.com/"
-    image: "/images/affiliations/HPC_logo.jpg"
+    image: images/affiliations/HPC_logo.jpg
     alt: "High Peak Cycles"
     description: "GKV is supported by our local bike shop, High Peak Cycles. Pop in and see Jamie for all of your cycling needs."
