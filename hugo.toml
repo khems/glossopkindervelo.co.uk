@@ -43,10 +43,8 @@ networks = [
 networks = [
   "facebook",
   "bluesky",
-  "x-twitter",
   "instagram",
   "strava",
-  "flickr",
 ]
 
 [params.ananke.social.facebook]
