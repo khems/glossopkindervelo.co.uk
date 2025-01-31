@@ -1,8 +1,29 @@
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div class="committee-grid">
   {{ range .Site.Data.committee }}
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="{{ .image }}" alt="{{ .name }}" style="width: 200px; height: auto;" />
+  <div class="committee-member">
+    <img src="{{ .image }}" alt="{{ .name }}" />
     <p>{{ .name }}: {{ .role }}</p>
   </div>
   {{ end }}
 </div>
+
+<style>
+  .committee-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+    text-align: center;
+    justify-content: center;
+  }
+
+  @media (min-width: 930px) {
+    .committee-grid {
+      grid-template-columns: repeat(4, 200px);
+    }
+  }
+
+  .committee-member img {
+    width: 200px;
+    height: auto;
+  }
+</style>
