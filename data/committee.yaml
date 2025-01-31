@@ -19,3 +19,6 @@
 - name: Paul
   role: Committee
   image: images/committee/paul.jpg
+- name: Steve
+  role: Committee
+  image: images/committee/steve.jpg

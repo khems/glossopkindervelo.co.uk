@@ -6,7 +6,7 @@ affiliations:
     description: "GKV is a British Cycling Go-Ride Club Mark Club"
   - name: "CTT"
     url: "https://www.ctt.org.uk/"
-    image: images/affiliations/ctt.jpg
+    image: images/affiliations/ctt.webp
     alt: "CTT"
     description: "GKV is affiliated to Manchester District CTT"
   - name: "High Peak Cycles"
